@@ -1,0 +1,1686 @@
+{
+  "items": [
+    {
+      "description": "Awesome-Editorjs AI will help you understand this repository better.",
+      "items": [],
+      "title": "Ask AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Block Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/header",
+          "description": "header block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T19:52:35Z",
+            "owner": "editor-js",
+            "repo": "header",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-alert",
+          "description": "tool for adding colorful alert messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-20T05:03:04Z",
+            "owner": "vishaltelangre",
+            "repo": "editorjs-alert",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-toggle-block",
+          "description": "tool for nesting blocks in a toggleable element",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:10:04Z",
+            "owner": "kommitters",
+            "repo": "editorjs-toggle-block",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/paragraph",
+          "description": "text block base tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-16T14:25:40Z",
+            "owner": "editor-js",
+            "repo": "paragraph",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/quote",
+          "description": "tool for quotes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-03T17:47:06Z",
+            "owner": "editor-js",
+            "repo": "quote",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paragraph-with-alignment",
+          "description": "text block base tool with alignment control. FYI editorjs-alignment-blocktune",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-28T15:52:41Z",
+            "owner": "kaaaaaaaaaaai",
+            "repo": "paragraph-with-alignment",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/delimiter",
+          "description": "delimiter tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-17T18:12:25Z",
+            "owner": "editor-js",
+            "repo": "delimiter",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/warning",
+          "description": "warning tool can be used as editorials notifications or appeals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-21T16:07:20Z",
+            "owner": "editor-js",
+            "repo": "warning",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-aitext",
+          "description": "ai suggestions tool based on paragraph tool and openai node lib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T13:48:55Z",
+            "owner": "etozhealkhipce",
+            "repo": "editorjs-aitext",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@coolbytes/editorjs-delimiter",
+          "description": "Improved delimiter block tool (Includes more styles - and )",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-09T07:50:36Z",
+            "owner": "PirateDevCom",
+            "repo": "editorjs-delimiter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "title-editorjs",
+          "description": "Provides Title (headings) Blocks for the Editor.js with various settings like H1...H6, colors (red, pink, purple...) and text-align. It is compatible with react and typescript, without causing typing errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-18T22:27:34Z",
+            "owner": "EmersonMatias",
+            "repo": "title-editorjs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-color-picker",
+          "description": "Color Picker Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-08T10:35:01Z",
+            "owner": "Matergi",
+            "repo": "editorjs-color-picker",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "header-with-anchor",
+          "description": "header block with the ability to set an anchor text",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T20:10:49Z",
+            "owner": "Aleksst95",
+            "repo": "header-with-anchor",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "header-with-alignment",
+          "description": "header block base tool with alignment control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-27T12:26:12Z",
+            "owner": "wandersonsousa",
+            "repo": "header-with-alignment",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@skchawala/editorjs-text-style",
+          "description": "inline tool for customizing font size and font family — lightweight, configurable, and easy to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-13T09:29:43Z",
+            "owner": "skchawala",
+            "repo": "editorjs-text-style",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cychann/editorjs-quote",
+          "description": "Improved Quote Block Tool (Includes more quote styles)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-30T04:22:21Z",
+            "owner": "cychann",
+            "repo": "editorjs-quote",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Text and typography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/list",
+          "description": "ordered or unordered (bulleted) lists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T15:16:57Z",
+            "owner": "editor-js",
+            "repo": "list",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/nested-list",
+          "description": "Multi-leveled lists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T15:16:57Z",
+            "owner": "editor-js",
+            "repo": "list",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/checklist",
+          "description": "checklists for your texts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-13T18:38:06Z",
+            "owner": "editor-js",
+            "repo": "checklist",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@calumk/editorjs-nested-checklist",
+          "description": "Nested Checklists for your texts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-24T09:57:16Z",
+            "owner": "calumk",
+            "repo": "editorjs-nested-checklist",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/image",
+          "description": "image block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-01T15:45:53Z",
+            "owner": "editor-js",
+            "repo": "image",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/embed",
+          "description": "pasted patterns handling and inserts iframe with embedded content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-10T01:47:18Z",
+            "owner": "editor-js",
+            "repo": "embed",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-inline-image",
+          "description": "embed images from image files, URLs or Unsplash",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:13:26Z",
+            "owner": "kommitters",
+            "repo": "editorjs-inline-image",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/link",
+          "description": "link with preview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-01T10:43:29Z",
+            "owner": "editor-js",
+            "repo": "link",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/attaches",
+          "description": "attach files to your article",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-16T11:34:18Z",
+            "owner": "editor-js",
+            "repo": "attaches",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/simple-image",
+          "description": "add images to article by pasting image URLs. no server-side uploader required",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-18T20:09:09Z",
+            "owner": "editor-js",
+            "repo": "simple-image",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mr8bit/carousel-editorjs",
+          "description": "Carousel/Gallery Block for the Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T07:46:14Z",
+            "owner": "mr8bit",
+            "repo": "carousel-editorjs",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdgaziur/EditorJS-LaTeX",
+          "description": "LaTeX block support for EditorJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-17T16:23:12Z",
+            "owner": "mdgaziur",
+            "repo": "EditorJS-LaTeX",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naduma/editorjs-mermaid",
+          "description": "Mermaid Block for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-15T16:27:16Z",
+            "owner": "naduma",
+            "repo": "editorjs-mermaid",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolgaIgor/editorjs-gallery",
+          "description": "Gallery Block with multiloading and sorting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-13T14:34:43Z",
+            "owner": "VolgaIgor",
+            "repo": "editorjs-gallery",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-image-editorjs",
+          "description": "fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T13:53:34Z",
+            "owner": "PaulKinlan",
+            "repo": "simple-image",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "renanrider/editorjs-audio-player",
+          "description": "Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-16T16:18:00Z",
+            "owner": "renanrider",
+            "repo": "editorjs-audio-player",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-drawing-tool",
+          "description": "Drawing Tool for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-29T03:48:53Z",
+            "owner": "blade47",
+            "repo": "editorjs-drawing-tool",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-with-link",
+          "description": "upload image with link. forked by official image plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-16T03:57:19Z",
+            "owner": "kaaaaaaaaaaai",
+            "repo": "image-with-link",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Furison-Tech/editorjs-audio",
+          "description": "HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-30T19:39:59Z",
+            "owner": "Furison-Tech",
+            "repo": "editorjs-audio",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cychann/editorjs-group-image",
+          "description": "Multi-image block with advanced drag-and-drop functionality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-22T17:32:38Z",
+            "owner": "cychann",
+            "repo": "editorjs-group-image",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-gifs",
+          "description": "Add GIFs to your editorjs setup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-04T03:36:10Z",
+            "owner": "jingjunm",
+            "repo": "editorjs-gif",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sureshHARDIYA/flipboxplus",
+          "description": "Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-29T09:44:46Z",
+            "owner": "sureshHARDIYA",
+            "repo": "flipboxplus",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-image-crop-resize",
+          "description": "image tool with crop, resize, rotate, and flip (X/Y axis) support powered by Cropper.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-24T19:28:37Z",
+            "owner": "mohdaffann",
+            "repo": "editorjs-image-crop-resize",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnatoliyKozlov/editorjs-telegram-post",
+          "description": "Telegram Post widget",
+          "children": []
+        }
+      ],
+      "title": "Media & Embed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/table",
+          "description": "table constructor tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-13T18:20:40Z",
+            "owner": "editor-js",
+            "repo": "table",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-table",
+          "description": "Table contructor tool with great editing row/column options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-04T14:38:53Z",
+            "owner": "codinova-tech",
+            "repo": "editorjs-table",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Table"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/code",
+          "description": "tools for code examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T15:14:09Z",
+            "owner": "editor-js",
+            "repo": "code",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/raw",
+          "description": "include raw HTML code to your article",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-04T09:48:21Z",
+            "owner": "editor-js",
+            "repo": "raw",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@bomdi/codebox",
+          "description": "code syntax highlighting tool for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-15T05:18:58Z",
+            "owner": "dev-juju",
+            "repo": "codebox",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-codemirror",
+          "description": "Code Mirror for the Editor.js allows to include code examples in your articles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T09:21:01Z",
+            "owner": "alexiej",
+            "repo": "editorjs-codemirror",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@calumk/editorjs-codeflask",
+          "description": "Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-13T08:19:31Z",
+            "owner": "calumk",
+            "repo": "editorjs-codeflask",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editor-js-code",
+          "description": "a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-18T20:21:48Z",
+            "owner": "paraswaykole",
+            "repo": "editor-js-code",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ace-code-editorjs",
+          "description": "Ace Code Editor block for the Editor.js with language selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-30T12:59:56Z",
+            "owner": "hsnfirdaus",
+            "repo": "ace-code-editorjs",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rxpm/editor-js-code",
+          "description": "Custom Code Plugin adds code examples to articles with a language dropdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T12:44:16Z",
+            "owner": "rajatxs",
+            "repo": "editor-js-code",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@calumk/editorjs-columns",
+          "description": "Multi-Column Layout tool, using nested editorJs Instances",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T11:48:37Z",
+            "owner": "calumk",
+            "repo": "editorjs-columns",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-layout",
+          "description": "Layout block tool for Editor.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-01T15:51:31Z",
+            "owner": "hata6502",
+            "repo": "editorjs-layout",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-collapsible-block",
+          "description": "Accordion-like block tool that manages collapsing of the next blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-06T08:21:19Z",
+            "owner": "sebmeister2077",
+            "repo": "editorjs-accordion",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Layout"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@editorjs/marker",
+          "description": "tool for highlighting text-fragments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-06T15:38:55Z",
+            "owner": "editor-js",
+            "repo": "marker",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-style",
+          "description": "Inline-style Tool for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T10:24:15Z",
+            "owner": "hata6502",
+            "repo": "editorjs-style",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/inline-code",
+          "description": "tool for marking monospace code-fragments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T11:46:57Z",
+            "owner": "editor-js",
+            "repo": "inline-code",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-tooltip",
+          "description": "Tool for adding tooltips in EditorJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:06:01Z",
+            "owner": "kommitters",
+            "repo": "editorjs-tooltip",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-hyperlink",
+          "description": "a tool link with target & rel attribute for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T20:13:52Z",
+            "owner": "trinhtam",
+            "repo": "editorjs-hyperlink",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-inline",
+          "description": "Inline-Editor.js Tool for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T10:24:15Z",
+            "owner": "hata6502",
+            "repo": "editorjs-inline",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/link-autocomplete",
+          "description": "an upgraded version of base inline link tool with your server's search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-18T20:09:53Z",
+            "owner": "editor-js",
+            "repo": "link-autocomplete",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolgaIgor/editorjs-annotation",
+          "description": "Tool for adding an extended annotation to any text in EditorJS blocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-07T13:24:46Z",
+            "owner": "VolgaIgor",
+            "repo": "editorjs-annotation",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/underline",
+          "description": "underlining text fragments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-12T12:39:20Z",
+            "owner": "editor-js",
+            "repo": "underline",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-inline-tool",
+          "description": "create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-01T15:28:14Z",
+            "owner": "natterstefan",
+            "repo": "editorjs-inline-tool",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-inline-template",
+          "description": "Inline-template Tool for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T05:17:27Z",
+            "owner": "hata6502",
+            "repo": "editorjs-inline-template",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-change-case",
+          "description": "change case Tool for the Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-15T21:43:44Z",
+            "owner": "maziyank",
+            "repo": "editorjs-change-case",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-comment",
+          "description": "Tool that allows you to add comment to editorjs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-27T10:56:02Z",
+            "owner": "osain-az",
+            "repo": "editorjs-comment",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-inline-hotkey",
+          "description": "Inline Tool that marks text as Hotkey",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-25T15:20:38Z",
+            "owner": "Stuhl",
+            "repo": "editorjs-inline-hotkey",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-color",
+          "description": "Color inline Tool, supports custom color palettes, easy to use",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T08:41:38Z",
+            "owner": "Vinsurs",
+            "repo": "editorjs-color",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editor-js-tg-spoiler",
+          "description": "Inline tool for adding spoilers to text fragments for Editor.js, supporting export to telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-04T14:34:32Z",
+            "owner": "izotikov",
+            "repo": "editor-js-tg-spoiler",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Inline Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "editorjs-alignment-blocktune",
+          "description": "Add text alignment to any Block Tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-20T06:40:45Z",
+            "owner": "kaaaaaaaaaaai",
+            "repo": "editorjs-alignment-blocktune",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@editorjs/text-variant-tune",
+          "description": "Block Tune for text variants: Call-out, Citation, Details",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-17T17:22:50Z",
+            "owner": "editor-js",
+            "repo": "text-variant-tune",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolgaIgor/editorjs-notice",
+          "description": "Highlight or hide with caption any Editor.js block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-03T13:30:43Z",
+            "owner": "VolgaIgor",
+            "repo": "editorjs-notice",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@coolbytes/editorjs-anchor",
+          "description": "Block Tune to toggle Anchor for any block type",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T03:27:19Z",
+            "owner": "PirateDevCom",
+            "repo": "editorjs-anchor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolgaIgor/editorjs-anchor",
+          "description": "Add anchor field to any Block Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-11T15:47:52Z",
+            "owner": "VolgaIgor",
+            "repo": "editorjs-anchor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editor-js-alignment-tune",
+          "description": "Block Tune to add cutomizable text alignment to any Block Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-23T12:16:11Z",
+            "owner": "Diesnei",
+            "repo": "editor-js-alignment-tune",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Block Tune Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "editorjs-drag-drop",
+          "description": "Drag/Drop feature for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T06:04:37Z",
+            "owner": "kommitters",
+            "repo": "editorjs-drag-drop",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-undo",
+          "description": "Undo/Redo feature for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:39:06Z",
+            "owner": "kommitters",
+            "repo": "editorjs-undo",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-markdown-parser",
+          "description": "Two plugins which allow you to export/import Markdown file",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-13T19:36:50Z",
+            "owner": "stejul",
+            "repo": "editorjs-markdown-parser",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "editorjs-html",
+          "description": "a utility to parse editorjs clean data to HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-20T19:46:08Z",
+            "owner": "pavittarx",
+            "repo": "editorjs-html",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-parser",
+          "description": "a library to parse Editorjs clean data to HTML in Node and Browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-22T12:06:34Z",
+            "owner": "miadabdi",
+            "repo": "editorjs-parser",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editor-js-component",
+          "description": "an editorjs library that can use Vue and React frameworks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-23T16:52:53Z",
+            "owner": "WebJeffery",
+            "repo": "editor-js-component",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-to-html",
+          "description": "editorjs format parser to html with saving editorjs markup format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-01-27T09:45:27Z",
+            "owner": "vorjyga",
+            "repo": "editorjs-to-html",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-editor-js",
+          "description": "the unofficial editor-js component for React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-04T18:44:15Z",
+            "owner": "Jungwoo-An",
+            "repo": "react-editor-js",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-blocks-react-renderer",
+          "description": "React component to render blocks to semantic HTML5 tags",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-12T06:08:19Z",
+            "owner": "moveyourdigital",
+            "repo": "editorjs-blocks-react-renderer",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@stfy/react-editor.js",
+          "description": "React wrapper component for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T19:28:54Z",
+            "owner": "stfy",
+            "repo": "react-editor.js",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-react",
+          "description": "Editor.js React parser to parse Editor.js data to JSX components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-16T09:34:50Z",
+            "owner": "etozhealkhipce",
+            "repo": "editorjs-react",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-react-parser",
+          "description": "Parse Editor.js data to semantic html tags with syntax highlighting and @calumk/editorjs-columns support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-15T10:01:11Z",
+            "owner": "cevinw",
+            "repo": "editorjs-react-parser",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-antd-renderer",
+          "description": "Render Editor.js data to React Ant Design components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T10:43:24Z",
+            "owner": "gosvoh",
+            "repo": "editorjs-antd-renderer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "editorjs-viewer-native",
+          "description": "A React Native solution to parse outputData generated by Editor.Js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-16T13:16:58Z",
+            "owner": "Hidekih",
+            "repo": "editorjs-viewer-native",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-renderer-react-native",
+          "description": "A React Native renderer for EditorJS JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T04:10:59Z",
+            "owner": "BibleBites",
+            "repo": "editorjs-renderer-react-native",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "React Native"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "editorjs-php",
+          "description": "server-side data validation, HTML sanitization and convertation output JSON to the Block objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-17T19:31:41Z",
+            "owner": "editor-js",
+            "repo": "editorjs-php",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nova-editor-js",
+          "description": "Editor JS field for Laravel Nova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-01T17:05:19Z",
+            "owner": "advoor",
+            "repo": "nova-editor-js",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bumpcore/editor.php",
+          "description": "An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-12T09:10:11Z",
+            "owner": "bumpcore",
+            "repo": "editor.php",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-symfony-parser-bundle",
+          "description": "Editor.js-Bundle for Symfony to parse blocks created with Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-18T14:52:44Z",
+            "owner": "SyntaxPhoenix",
+            "repo": "editorjs-symfony-parser-bundle",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EditorjsBundle",
+          "description": "Symfony bundle for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-02T12:01:51Z",
+            "owner": "tbmatuka",
+            "repo": "EditorjsBundle",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codex-to-html",
+          "description": "Converter EditorJS JSON to HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-14T16:35:36Z",
+            "owner": "Archakov06",
+            "repo": "codex-to-html",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orchid-editorjs-field",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-27T13:38:40Z",
+            "owner": "AlexSabur",
+            "repo": "orchid-editorjs-field",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-editorjs-widget",
+          "description": "Editor.js widget for Yii 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-05-12T17:04:46Z",
+            "owner": "zakurdaev",
+            "repo": "yii2-editorjs-widget",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editorjs-simple-html-parser",
+          "description": "2 way parser for Editor.js: JSON to HTML & HTML to JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-04T10:52:20Z",
+            "owner": "Edd-G",
+            "repo": "editorjs-simple-html-parser",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UX Editor",
+          "description": "Editor.js integration for Symfony",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-22T21:43:27Z",
+            "owner": "pentiminax",
+            "repo": "ux-editor",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magento2-editorjs",
+          "description": "Editor.js module for Magento 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-23T17:09:21Z",
+            "owner": "Wamoco",
+            "repo": "magento2-editorjs",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-editorjs-fields",
+          "description": "Editor.js integration for Django",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T17:00:13Z",
+            "owner": "2ik",
+            "repo": "django-editorjs-fields",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyEditorJS",
+          "description": "A very simple Editor.js parser written in pure Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-10T12:28:34Z",
+            "owner": "SKevo18",
+            "repo": "pyEditorJS",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "micheleriva/editorjs-go",
+          "description": "Fast markdown/HTML generator for Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-14T10:48:53Z",
+            "owner": "micheleriva",
+            "repo": "editorjs-go",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davidscottmills/goeditorjs",
+          "description": "An extensible HTML/markdown generator for editorjs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-02-02T20:23:19Z",
+            "owner": "davidscottmills",
+            "repo": "goeditorjs",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Editor.js - Directus Extension",
+          "description": "Add an Editor.js interface to Directus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-04-17T07:56:02Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-editorjs-interface",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strapi-EditorJS",
+          "description": "Replace Strapi default WYSIWYG editor with Editor.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-11-07T09:34:14Z",
+            "owner": "melishev",
+            "repo": "strapi-plugin-react-editorjs",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cotonti CMF Editor.js plugin",
+          "description": "Content editor plugin for Cotonti CMF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-14T19:07:18Z",
+            "owner": "Edd-G",
+            "repo": "cot-editorjs",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Plugins for CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeX Docs",
+          "description": "documentation engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T13:17:35Z",
+            "owner": "codex-team",
+            "repo": "codex.docs",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeX Notes",
+          "description": "crossplatform desktop notes application based on Electron and Editor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T23:42:02Z",
+            "owner": "codex-team",
+            "repo": "codex.notes",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeX Media",
+          "description": "platform for building modern website for educational or media organizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-03T13:51:13Z",
+            "owner": "codex-team",
+            "repo": "codex.media",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enassi",
+          "description": "Encryption assistant that encrypts and stores your notes and files.",
+          "children": []
+        }
+      ],
+      "title": "Open source projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:08.165Z",
+    "original_repository": "editor-js/awesome-editorjs",
+    "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
+    "enhanced_repository": "enhansome/enhansome-editorjs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Editor.js with stars"
+  }
+}
