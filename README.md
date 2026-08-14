@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 | 🐛 100 | 📅 2026-06-30 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,491 | 🐛 100 | 📅 2026-06-30 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -54,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 * [@editorjs/header](https://github.com/editor-js/header) ⭐ 113 | 🐛 39 | 🌐 TypeScript | 📅 2026-07-12 — header block
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-20 - tool for adding colorful alert messages
-* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 62 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-12 - tool for nesting blocks in a toggleable element
+* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 62 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-13 - tool for nesting blocks in a toggleable element
 * [@editorjs/paragraph](https://github.com/editor-js/paragraph) ⭐ 58 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-16 — text block base tool
 * [@editorjs/quote](https://github.com/editor-js/quote) ⭐ 57 | 🐛 23 | 🌐 TypeScript | 📅 2024-12-03 — tool for quotes
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) ⭐ 50 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-28 - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) ⭐ 64 | 🐛 13 | 🌐 HTML | 📅 2024-03-20
@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 * [@editorjs/image](https://github.com/editor-js/image) ⭐ 285 | 🐛 131 | 🌐 TypeScript | 📅 2025-07-01 — image block
 * [@editorjs/embed](https://github.com/editor-js/embed) ⭐ 158 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-10 — pasted patterns handling and inserts iframe with embedded content
-* [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12 — embed images from image files, URLs or Unsplash
+* [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-13 — embed images from image files, URLs or Unsplash
 * [@editorjs/link](https://github.com/editor-js/link) ⭐ 99 | 🐛 32 | 🌐 JavaScript | 📅 2024-07-01 — link with preview
 * [@editorjs/attaches](https://github.com/editor-js/attaches) ⭐ 72 | 🐛 18 | 🌐 JavaScript | 📅 2025-10-16 — attach files to your article
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) ⭐ 67 | 🐛 36 | 🌐 JavaScript | 📅 2023-11-18 — add images to article by pasting image URLs. no server-side uploader required
@@ -92,8 +92,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 * [renanrider/editorjs-audio-player](https://github.com/renanrider/editorjs-audio-player) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-16 - Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.
 * [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-03-29 - Drawing Tool for Editor.js
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-16 - upload image with link. forked by official image plugin
+* [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-22 - Multi-image block with advanced drag-and-drop functionality
 * [Furison-Tech/editorjs-audio](https://github.com/Furison-Tech/editorjs-audio) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-30 - HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.
-* [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-22 - Multi-image block with advanced drag-and-drop functionality
 * [editorjs-gifs](https://github.com/jingjunm/editorjs-gif) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-04 - Add GIFs to your editorjs setup
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-29 - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox.
 * [editorjs-image-crop-resize](https://github.com/mohdaffann/editorjs-image-crop-resize) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-24 - image tool with crop, resize, rotate, and flip (X/Y axis) support powered by Cropper.js
@@ -135,7 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 * [@editorjs/marker](https://github.com/editor-js/marker) ⭐ 87 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-06 — tool for highlighting text-fragments
 * [editorjs-style](https://github.com/hata6502/editorjs-style) ⭐ 64 | 🐛 11 | 🌐 TypeScript | 📅 2023-02-04 — Inline-style Tool for Editor.js
 * [@editorjs/inline-code](https://github.com/editor-js/inline-code) ⭐ 62 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-30 — tool for marking monospace code-fragments
-* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) ⭐ 45 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-12 — Tool for adding tooltips in EditorJS
+* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) ⭐ 45 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-13 — Tool for adding tooltips in EditorJS
 * [editorjs-hyperlink](https://github.com/trinhtam/editorjs-hyperlink) ⭐ 40 | 🐛 15 | 🌐 JavaScript | 📅 2024-06-18 — a tool link with target & rel attribute for Editor.js
 * [editorjs-inline](https://github.com/hata6502/editorjs-inline) ⭐ 38 | 🐛 13 | 🌐 TypeScript | 📅 2023-02-04 — Inline-Editor.js Tool for Editor.js
 * [@editorjs/link-autocomplete](https://github.com/editor-js/link-autocomplete) ⭐ 36 | 🐛 7 | 🌐 JavaScript | 📅 2023-11-18 — an upgraded version of base inline link tool with your server's search
@@ -164,8 +164,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 ### Plugins
 
-* [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) ⭐ 211 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-12 — Drag/Drop feature for Editor.js
-* [editorjs-undo](https://github.com/kommitters/editorjs-undo) ⭐ 195 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-12 — Undo/Redo feature for Editor.js
+* [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) ⭐ 211 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-13 — Drag/Drop feature for Editor.js
+* [editorjs-undo](https://github.com/kommitters/editorjs-undo) ⭐ 195 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-13 — Undo/Redo feature for Editor.js
 * [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) ⚠️ Archived - Two plugins which allow you to export/import Markdown file
 * [editorjs-multiblock-selection-plugin](https://www.npmjs.com/package/editorjs-multiblock-selection-plugin) - Plugin to extend your inline tools to work in multiblock selection
 
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,061 | 🐛 1,100 | 🌐 TypeScript | 📅 2026-08-13 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,076 | 🐛 1,103 | 🌐 TypeScript | 📅 2026-08-14 components
 
 #### React Native
 
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 188 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,339 | 🐛 391 | 🌐 TypeScript | 📅 2026-08-12
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 188 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,371 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-13
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -288,7 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 ### Open source projects
 
-* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 846 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-15 — documentation engine
+* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 846 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-15 — documentation engine
 * [CodeX Notes](https://github.com/codex-team/codex.notes) ⭐ 149 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-08 — crossplatform desktop notes application based on Electron and Editor.js
 * [CodeX Media](https://github.com/codex-team/codex.media) ⭐ 104 | 🐛 59 | 🌐 PHP | 📅 2026-07-03 — platform for building modern website for educational or media organizations
 * [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,098 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

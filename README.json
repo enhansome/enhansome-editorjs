@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T01:10:04Z",
+            "last_commit": "2026-08-13T15:54:43Z",
             "owner": "kommitters",
             "repo": "editorjs-toggle-block",
             "stars": 62
@@ -346,7 +346,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T14:13:26Z",
+            "last_commit": "2026-08-13T19:04:49Z",
             "owner": "kommitters",
             "repo": "editorjs-inline-image",
             "stars": 113
@@ -508,20 +508,6 @@
         },
         {
           "node_type": "item",
-          "title": "Furison-Tech/editorjs-audio",
-          "description": "HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-30T19:39:59Z",
-            "owner": "Furison-Tech",
-            "repo": "editorjs-audio",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "@cychann/editorjs-group-image",
           "description": "Multi-image block with advanced drag-and-drop functionality",
           "children": [],
@@ -531,6 +517,20 @@
             "last_commit": "2025-06-22T17:32:38Z",
             "owner": "cychann",
             "repo": "editorjs-group-image",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Furison-Tech/editorjs-audio",
+          "description": "HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-30T19:39:59Z",
+            "owner": "Furison-Tech",
+            "repo": "editorjs-audio",
             "stars": 3
           }
         },
@@ -838,7 +838,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T14:06:01Z",
+            "last_commit": "2026-08-13T16:44:48Z",
             "owner": "kommitters",
             "repo": "editorjs-tooltip",
             "stars": 45
@@ -1116,7 +1116,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T06:04:37Z",
+            "last_commit": "2026-08-13T20:33:00Z",
             "owner": "kommitters",
             "repo": "editorjs-drag-drop",
             "stars": 211
@@ -1130,7 +1130,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T12:39:06Z",
+            "last_commit": "2026-08-13T19:55:50Z",
             "owner": "kommitters",
             "repo": "editorjs-undo",
             "stars": 195
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:08:30.208Z",
+    "last_updated": "2026-08-14T06:06:00.507Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
