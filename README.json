@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:54:43Z",
+            "last_commit": "2026-08-14T20:58:43Z",
             "owner": "kommitters",
             "repo": "editorjs-toggle-block",
             "stars": 62
@@ -346,7 +346,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:04:49Z",
+            "last_commit": "2026-08-14T18:54:36Z",
             "owner": "kommitters",
             "repo": "editorjs-inline-image",
             "stars": 113
@@ -838,7 +838,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T16:44:48Z",
+            "last_commit": "2026-08-14T11:17:43Z",
             "owner": "kommitters",
             "repo": "editorjs-tooltip",
             "stars": 45
@@ -1116,7 +1116,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:33:00Z",
+            "last_commit": "2026-08-14T18:46:29Z",
             "owner": "kommitters",
             "repo": "editorjs-drag-drop",
             "stars": 211
@@ -1130,7 +1130,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:55:50Z",
+            "last_commit": "2026-08-14T18:00:39Z",
             "owner": "kommitters",
             "repo": "editorjs-undo",
             "stars": 195
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:06:00.507Z",
+    "last_updated": "2026-08-15T05:12:41.769Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
