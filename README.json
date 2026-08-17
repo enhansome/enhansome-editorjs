@@ -1634,7 +1634,7 @@
             "last_commit": "2026-04-15T13:17:35Z",
             "owner": "codex-team",
             "repo": "codex.docs",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:15:39.767Z",
+    "last_updated": "2026-08-17T05:23:20.966Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
