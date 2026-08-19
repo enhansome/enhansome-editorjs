@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 | 🐛 103 | 📅 2026-06-30 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,501 | 🐛 102 | 📅 2026-08-18 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -54,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 
 * [@editorjs/header](https://github.com/editor-js/header) ⭐ 113 | 🐛 39 | 🌐 TypeScript | 📅 2026-07-12 — header block
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-20 - tool for adding colorful alert messages
-* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 62 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-15 - tool for nesting blocks in a toggleable element
+* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-15 - tool for nesting blocks in a toggleable element
 * [@editorjs/paragraph](https://github.com/editor-js/paragraph) ⭐ 58 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-16 — text block base tool
 * [@editorjs/quote](https://github.com/editor-js/quote) ⭐ 57 | 🐛 23 | 🌐 TypeScript | 📅 2024-12-03 — tool for quotes
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) ⭐ 50 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-28 - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) ⭐ 64 | 🐛 13 | 🌐 HTML | 📅 2024-03-20
@@ -155,7 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 ### Block Tune Tools
 
 * [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) ⭐ 64 | 🐛 13 | 🌐 HTML | 📅 2024-03-20 — Add text alignment to any Block Tools.
-* [@editorjs/text-variant-tune](https://github.com/editor-js/text-variant-tune) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-17 — Block Tune for text variants: Call-out, Citation, Details
+* [@editorjs/text-variant-tune](https://github.com/editor-js/text-variant-tune) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-17 — Block Tune for text variants: Call-out, Citation, Details
 * [VolgaIgor/editorjs-notice](https://github.com/VolgaIgor/editorjs-notice) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-03 — Highlight or hide with caption any Editor.js block
 * [@coolbytes/editorjs-anchor](https://github.com/CoolBytesIN/editorjs-anchor) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-05 — Block Tune to toggle Anchor for any block type
 * [VolgaIgor/editorjs-anchor](https://github.com/VolgaIgor/editorjs-anchor) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-11 — Add anchor field to any Block Tools
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,099 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-08-18 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,115 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-08-18 components
 
 #### React Native
 
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 188 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,446 | 🐛 391 | 🌐 TypeScript | 📅 2026-08-17
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 188 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,460 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-18
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -266,7 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 
 ## Projects Using Editor.js
 
-👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,860 | 🐛 20 | 📅 2026-08-05
+👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,861 | 🐛 20 | 📅 2026-08-05
 
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
 * [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,073 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

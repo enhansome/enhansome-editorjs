@@ -57,7 +57,7 @@
             "last_commit": "2026-08-15T06:38:23Z",
             "owner": "kommitters",
             "repo": "editorjs-toggle-block",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -1043,7 +1043,7 @@
             "last_commit": "2024-07-17T17:22:50Z",
             "owner": "editor-js",
             "repo": "text-variant-tune",
-            "stars": 19
+            "stars": 17
           }
         },
         {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:17:13.426Z",
+    "last_updated": "2026-08-19T05:17:14.974Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
