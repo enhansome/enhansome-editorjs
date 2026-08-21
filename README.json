@@ -1780,7 +1780,7 @@
                 "archived": false,
                 "id": 46662693,
                 "language": "PHP",
-                "last_commit": "2026-07-03T13:51:13Z",
+                "last_commit": "2026-08-20T11:06:57Z",
                 "owner": "codex-team",
                 "repo": "codex.media",
                 "stars": 104
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:18:40.838Z",
+    "last_updated": "2026-08-21T05:20:14.906Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",

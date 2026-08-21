@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 | 🐛 104 | 📅 2026-08-18 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,345 | 🐛 105 | 📅 2026-08-18 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 * [@editorjs/image](https://github.com/editor-js/image) ⭐ 284 | 🐛 132 | 🌐 TypeScript | 📅 2025-07-01 — image block
 * [@editorjs/embed](https://github.com/editor-js/embed) ⭐ 158 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-10 — pasted patterns handling and inserts iframe with embedded content
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-15 — embed images from image files, URLs or Unsplash
-* [@editorjs/link](https://github.com/editor-js/link) ⭐ 99 | 🐛 32 | 🌐 JavaScript | 📅 2024-07-01 — link with preview
+* [@editorjs/link](https://github.com/editor-js/link) ⭐ 99 | 🐛 31 | 🌐 JavaScript | 📅 2024-07-01 — link with preview
 * [@editorjs/attaches](https://github.com/editor-js/attaches) ⭐ 72 | 🐛 18 | 🌐 JavaScript | 📅 2025-10-16 — attach files to your article
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) ⭐ 67 | 🐛 36 | 🌐 JavaScript | 📅 2023-11-18 — add images to article by pasting image URLs. no server-side uploader required
 * [mr8bit/carousel-editorjs](https://github.com/mr8bit/carousel-editorjs) ⭐ 54 | 🐛 17 | 🌐 JavaScript | 📅 2024-05-02 — Carousel/Gallery Block for the Editor.js
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,121 | 🐛 1,085 | 🌐 TypeScript | 📅 2026-08-20 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,134 | 🐛 1,080 | 🌐 TypeScript | 📅 2026-08-21 components
 
 #### React Native
 
@@ -238,7 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 
 ### Swift
 
-* [editor.js-kit-ios](https://github.com/Upstarts/editor.js-kit-ios) ⭐ 34 | 🐛 2 | 🌐 Swift | 📅 2024-04-18 - iOS framework for parsing and rendering blocks
+* [editor.js-kit-ios](https://github.com/Upstarts/editor.js-kit-ios) ⭐ 34 | 🐛 3 | 🌐 Swift | 📅 2024-04-18 - iOS framework for parsing and rendering blocks
 
 ### Kotlin
 
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,479 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-19
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,462 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-20
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -266,7 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 
 ## Projects Using Editor.js
 
-👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,861 | 🐛 20 | 📅 2026-08-05
+👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,863 | 🐛 20 | 📅 2026-08-05
 
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
 * [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
@@ -290,7 +290,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 
 * [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 847 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-17 — documentation engine
 * [CodeX Notes](https://github.com/codex-team/codex.notes) ⭐ 148 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-08 — crossplatform desktop notes application based on Electron and Editor.js
-* [CodeX Media](https://github.com/codex-team/codex.media) ⭐ 104 | 🐛 59 | 🌐 PHP | 📅 2026-07-03 — platform for building modern website for educational or media organizations
+* [CodeX Media](https://github.com/codex-team/codex.media) ⭐ 104 | 🐛 59 | 🌐 PHP | 📅 2026-08-20 — platform for building modern website for educational or media organizations
 * [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,893 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
