@@ -46,7 +46,7 @@
                     "archived": false,
                     "id": 447778042,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-15T06:38:23Z",
+                    "last_commit": "2026-08-21T18:01:19Z",
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
                     "stars": 63
@@ -360,7 +360,7 @@
                     "archived": false,
                     "id": 266148127,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-15T08:52:44Z",
+                    "last_commit": "2026-08-21T17:06:29Z",
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
                     "stars": 113
@@ -888,7 +888,7 @@
                 "archived": false,
                 "id": 411740061,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T10:25:47Z",
+                "last_commit": "2026-08-21T16:08:01Z",
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
                 "stars": 45
@@ -1187,7 +1187,7 @@
                 "archived": false,
                 "id": 272760205,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T09:10:04Z",
+                "last_commit": "2026-08-21T16:41:25Z",
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
                 "stars": 211
@@ -1202,7 +1202,7 @@
                 "archived": false,
                 "id": 271114793,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T08:26:33Z",
+                "last_commit": "2026-08-21T16:06:23Z",
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
                 "stars": 195
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:20:14.906Z",
+    "last_updated": "2026-08-22T05:14:09.195Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
