@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,041 | 🐛 106 | 📅 2026-08-21 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,139 | 🐛 1,079 | 🌐 TypeScript | 📅 2026-08-21 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,148 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-08-23 components
 
 #### React Native
 
@@ -210,8 +210,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 |
 * [editorjs-php](https://github.com/editor-js/editorjs-php) ⭐ 264 | 🐛 14 | 🌐 PHP | 📅 2024-04-17 — server-side data validation, HTML sanitization and convertation output JSON to the Block objects
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) ⭐ 92 | 🐛 24 | 🌐 PHP | 📅 2026-06-01 — Editor JS field for Laravel Nova
 * [bumpcore/editor.php](https://github.com/bumpcore/editor.php) ⭐ 47 | 🐛 3 | 🌐 PHP | 📅 2026-05-12 - An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.
-* [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) ⭐ 20 | 🐛 3 | 🌐 PHP | 📅 2026-04-18 — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
 * [EditorjsBundle](https://github.com/tbmatuka/EditorjsBundle) ⭐ 19 | 🐛 7 | 🌐 PHP | 📅 2023-02-02 — Symfony bundle for Editor.js
+* [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) ⭐ 19 | 🐛 3 | 🌐 PHP | 📅 2026-04-18 — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-10-14 — Converter EditorJS JSON to HTML
 * [orchid-editorjs-field](https://github.com/AlexSabur/orchid-editorjs-field) ⭐ 13 | 🐛 3 | 🌐 PHP | 📅 2023-10-27
 * [yii2-editorjs-widget](https://github.com/zakurdaev/yii2-editorjs-widget) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2020-05-12 — Editor.js widget for Yii 2
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,450 | 🐛 384 | 🌐 TypeScript | 📅 2026-08-21
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,462 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-21
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -266,7 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 |
 
 ## Projects Using Editor.js
 
-👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,864 | 🐛 20 | 📅 2026-08-05
+👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,865 | 🐛 20 | 📅 2026-08-05
 
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
 * [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,706 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

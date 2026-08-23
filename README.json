@@ -1484,21 +1484,6 @@
             },
             {
               "node_type": "item",
-              "title": "editorjs-symfony-parser-bundle",
-              "description": "Editor.js-Bundle for Symfony to parse blocks created with Editor.js",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 356417254,
-                "language": "PHP",
-                "last_commit": "2026-04-18T14:52:44Z",
-                "owner": "SyntaxPhoenix",
-                "repo": "editorjs-symfony-parser-bundle",
-                "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
               "title": "EditorjsBundle",
               "description": "Symfony bundle for Editor.js",
               "children": [],
@@ -1509,6 +1494,21 @@
                 "last_commit": "2023-02-02T12:01:51Z",
                 "owner": "tbmatuka",
                 "repo": "EditorjsBundle",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "editorjs-symfony-parser-bundle",
+              "description": "Editor.js-Bundle for Symfony to parse blocks created with Editor.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356417254,
+                "language": "PHP",
+                "last_commit": "2026-04-18T14:52:44Z",
+                "owner": "SyntaxPhoenix",
+                "repo": "editorjs-symfony-parser-bundle",
                 "stars": 19
               }
             },
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:14:09.195Z",
+    "last_updated": "2026-08-23T05:17:33.094Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
