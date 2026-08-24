@@ -652,6 +652,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "editorjs-chartjs",
+                  "description": "Chart constructor tool using Chart.js",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1094278368,
+                    "language": "JavaScript",
+                    "last_commit": "2025-11-13T11:26:08Z",
+                    "owner": "Alkosik",
+                    "repo": "editorjs-chartjs",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Chart"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "@editorjs/code",
                   "description": "tools for code examples",
                   "children": [],
@@ -774,6 +796,28 @@
               "description": null,
               "node_type": "group",
               "title": "Code"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "editorjs-button",
+                  "description": "Create a button with a link and text.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321018429,
+                    "language": "JavaScript",
+                    "last_commit": "2024-05-07T01:08:34Z",
+                    "owner": "kaaaaaaaaaaai",
+                    "repo": "editorjs-button",
+                    "stars": 31
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Button"
             },
             {
               "children": [
@@ -1300,6 +1344,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "vue-editor-js",
+                  "description": "editor.js for Vue users",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179216347,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-06T17:28:06Z",
+                    "owner": "ChangJoo-Park",
+                    "repo": "vue-editor-js",
+                    "stars": 363
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vue.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "react-editor-js",
                   "description": "the unofficial editor-js component for React",
                   "children": [],
@@ -1429,6 +1495,28 @@
               "description": null,
               "node_type": "group",
               "title": "React Native"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sveditorjs",
+                  "description": "This library provides svelte support for EditorJS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 711954722,
+                    "language": "JavaScript",
+                    "last_commit": "2024-11-02T17:12:53Z",
+                    "owner": "pouchcms",
+                    "repo": "sveditorjs",
+                    "stars": 46
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Svelte"
             }
           ],
           "description": null,
@@ -1648,6 +1736,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "render_editorjs",
+              "description": "A modular and customizable Ruby renderer for Editor.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425332359,
+                "language": "Ruby",
+                "last_commit": "2026-07-30T09:49:21Z",
+                "owner": "ceritium",
+                "repo": "render_editorjs",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "micheleriva/editorjs-go",
               "description": "Fast markdown/HTML generator for Editor.js",
               "children": [],
@@ -1680,6 +1790,72 @@
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "editor.js-kit-ios",
+              "description": "iOS framework for parsing and rendering blocks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193479362,
+                "language": "Swift",
+                "last_commit": "2024-04-18T09:15:01Z",
+                "owner": "Upstarts",
+                "repo": "editor.js-kit-ios",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "editor.js-kit-android",
+              "description": "Android framework for parsing and rendering blocks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192549331,
+                "language": "Kotlin",
+                "last_commit": "2024-04-27T10:42:08Z",
+                "owner": "Upstarts",
+                "repo": "editor.js-kit-android",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EditorjsToMarkdown",
+              "description": "A Java-based tool that parses Editor.js JSON into Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039884799,
+                "language": "Java",
+                "last_commit": "2025-08-18T06:22:57Z",
+                "owner": "PiuPiue",
+                "repo": "EditorjsToMarkdown",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
         },
         {
           "children": [
@@ -1737,8 +1913,38 @@
       "title": "Libraries"
     },
     {
-      "description": "👉 Add your project!",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "👉 Add your project!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271224625,
+            "language": null,
+            "last_commit": "2026-08-05T07:43:42Z",
+            "owner": "editor-js",
+            "repo": "awesome-editorjs",
+            "stars": 2865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebResearcherJS",
+          "description": "Firefox extension which allows users to take notes on webpages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454683852,
+            "language": "JavaScript",
+            "last_commit": "2026-06-11T19:36:35Z",
+            "owner": "kvgc153",
+            "repo": "WebResearcherJS",
+            "stars": 7
+          }
+        },
         {
           "children": [
             {
@@ -1787,7 +1993,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Open source projects"
         }
@@ -1796,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:26:25.999Z",
+    "last_updated": "2026-08-24T14:03:31.091Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
