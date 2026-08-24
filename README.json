@@ -1695,7 +1695,7 @@
                 "last_commit": "2023-04-17T07:56:02Z",
                 "owner": "dimitrov-adrian",
                 "repo": "directus-extension-editorjs-interface",
-                "stars": 187
+                "stars": 186
               }
             },
             {
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:17:33.094Z",
+    "last_updated": "2026-08-24T05:26:25.999Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
