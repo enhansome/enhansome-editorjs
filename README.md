@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,684 | 🐛 106 | 📅 2026-08-21 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21 list. Feel free to improve this list by contributing!
 
 ## Contents
 
