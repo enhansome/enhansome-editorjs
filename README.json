@@ -1231,7 +1231,7 @@
                 "archived": false,
                 "id": 272760205,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:41:25Z",
+                "last_commit": "2026-08-25T01:38:58Z",
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
                 "stars": 211
@@ -1376,7 +1376,7 @@
                     "last_commit": "2024-01-04T18:44:15Z",
                     "owner": "Jungwoo-An",
                     "repo": "react-editor-js",
-                    "stars": 972
+                    "stars": 971
                   }
                 },
                 {
@@ -1709,7 +1709,7 @@
                 "last_commit": "2026-07-06T17:00:13Z",
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 152
+                "stars": 151
               }
             },
             {
@@ -1927,7 +1927,7 @@
             "last_commit": "2026-08-05T07:43:42Z",
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2865
+            "stars": 2866
           }
         },
         {
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:31.091Z",
+    "last_updated": "2026-08-25T05:20:17.287Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
