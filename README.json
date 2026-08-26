@@ -360,7 +360,7 @@
                     "archived": false,
                     "id": 266148127,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T17:06:29Z",
+                    "last_commit": "2026-08-25T23:27:36Z",
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
                     "stars": 113
@@ -932,7 +932,7 @@
                 "archived": false,
                 "id": 411740061,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:08:01Z",
+                "last_commit": "2026-08-25T20:45:01Z",
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
                 "stars": 45
@@ -1231,10 +1231,10 @@
                 "archived": false,
                 "id": 272760205,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:38:58Z",
+                "last_commit": "2026-08-25T20:00:33Z",
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
-                "stars": 211
+                "stars": 210
               }
             },
             {
@@ -1246,7 +1246,7 @@
                 "archived": false,
                 "id": 271114793,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:06:23Z",
+                "last_commit": "2026-08-25T22:36:13Z",
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
                 "stars": 195
@@ -1391,7 +1391,7 @@
                     "last_commit": "2025-05-12T06:08:19Z",
                     "owner": "moveyourdigital",
                     "repo": "editorjs-blocks-react-renderer",
-                    "stars": 148
+                    "stars": 147
                   }
                 },
                 {
@@ -1956,7 +1956,7 @@
                 "archived": false,
                 "id": 144308900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T18:07:36Z",
+                "last_commit": "2026-08-25T18:02:33Z",
                 "owner": "codex-team",
                 "repo": "codex.docs",
                 "stars": 847
@@ -1986,7 +1986,7 @@
                 "archived": false,
                 "id": 46662693,
                 "language": "PHP",
-                "last_commit": "2026-08-20T11:06:57Z",
+                "last_commit": "2026-08-25T07:52:35Z",
                 "owner": "codex-team",
                 "repo": "codex.media",
                 "stars": 104
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:09.313Z",
+    "last_updated": "2026-08-26T05:20:10.889Z",
     "original_repository": "editor-js/awesome-editorjs",
     "original_repository_id": 271224625,
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
