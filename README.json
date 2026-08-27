@@ -16,7 +16,7 @@
                     "archived": false,
                     "id": 101940744,
                     "language": "TypeScript",
-                    "last_commit": "2026-07-12T19:52:35Z",
+                    "last_commit": "2026-08-26T15:17:13Z",
                     "owner": "editor-js",
                     "repo": "header",
                     "stars": 114
@@ -46,7 +46,7 @@
                     "archived": false,
                     "id": 447778042,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T18:01:19Z",
+                    "last_commit": "2026-08-26T23:14:55Z",
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
                     "stars": 63
@@ -360,7 +360,7 @@
                     "archived": false,
                     "id": 266148127,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T23:27:36Z",
+                    "last_commit": "2026-08-26T21:06:33Z",
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
                     "stars": 113
@@ -932,7 +932,7 @@
                 "archived": false,
                 "id": 411740061,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T20:45:01Z",
+                "last_commit": "2026-08-26T17:11:33Z",
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
                 "stars": 45
@@ -1231,7 +1231,7 @@
                 "archived": false,
                 "id": 272760205,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T20:00:33Z",
+                "last_commit": "2026-08-26T17:40:10Z",
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
                 "stars": 210
@@ -1246,7 +1246,7 @@
                 "archived": false,
                 "id": 271114793,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T22:36:13Z",
+                "last_commit": "2026-08-26T16:48:48Z",
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
                 "stars": 195
@@ -1802,7 +1802,7 @@
                 "archived": false,
                 "id": 193479362,
                 "language": "Swift",
-                "last_commit": "2024-04-18T09:15:01Z",
+                "last_commit": "2026-08-26T15:05:01Z",
                 "owner": "Upstarts",
                 "repo": "editor.js-kit-ios",
                 "stars": 34
@@ -2002,9 +2002,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:20:10.889Z",
-    "original_repository": "editor-js/awesome-editorjs",
-    "original_repository_id": 271224625,
+    "last_updated": "2026-08-27T11:35:36.657Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 271224625,
+      "language": null,
+      "last_commit": "2026-08-05T07:43:42Z",
+      "owner": "editor-js",
+      "repo": "awesome-editorjs",
+      "stars": 2866
+    },
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
     "enhanced_repository_description": null,
