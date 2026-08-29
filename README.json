@@ -14,12 +14,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Header Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 101940744,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T15:17:13Z",
+                    "open_issues": 39,
                     "owner": "editor-js",
                     "repo": "header",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "editor",
+                      "header",
+                      "plugin",
+                      "text"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -30,12 +42,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Editor.js tool for adding colorful alerts/callouts",
+                    "homepage": "https://vishaltelangre.github.io/editorjs-alert/examples/demo.html",
                     "id": 281046272,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-02-20T05:03:04Z",
+                    "open_issues": 4,
                     "owner": "vishaltelangre",
                     "repo": "editorjs-alert",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "alert-tool",
+                      "codex-editor-alert",
+                      "editorjs",
+                      "editorjs-alert",
+                      "editorjs-callout",
+                      "editorjs-plugin",
+                      "editorjs-tool",
+                      "editorjs-warning"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -46,12 +72,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Toggle block tool for EditorJS",
+                    "homepage": "https://www.npmjs.com/package/editorjs-toggle-block",
                     "id": 447778042,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T23:14:55Z",
+                    "open_issues": 8,
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-tool",
+                      "hacktoberfest",
+                      "javascript",
+                      "toggle",
+                      "toggle-block"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -62,12 +100,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Paragraph Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 102072919,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-16T14:25:40Z",
+                    "open_issues": 30,
                     "owner": "editor-js",
                     "repo": "paragraph",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "editor",
+                      "paragraph",
+                      "plugin",
+                      "text"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -78,12 +128,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quote Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 143034453,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-03T17:47:06Z",
+                    "open_issues": 23,
                     "owner": "editor-js",
                     "repo": "quote",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "editor",
+                      "plugin",
+                      "quote",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -94,12 +156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Paragraph Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 285786362,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-28T15:52:41Z",
+                    "open_issues": 9,
                     "owner": "kaaaaaaaaaaai",
                     "repo": "paragraph-with-alignment",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -110,12 +177,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Delimiter plugin for Editor.js 2.0",
+                    "homepage": null,
                     "id": 142914217,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-17T18:12:25Z",
+                    "open_issues": 8,
                     "owner": "editor-js",
                     "repo": "delimiter",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "delimiter",
+                      "editor",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -126,12 +204,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Warning Tool for CodeX Editor 2.0",
+                    "homepage": null,
                     "id": 155598662,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-11-21T16:07:20Z",
+                    "open_issues": 11,
                     "owner": "editor-js",
                     "repo": "warning",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "codex"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -142,12 +227,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 716952174,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-03T13:48:55Z",
+                    "open_issues": 0,
                     "owner": "etozhealkhipce",
                     "repo": "editorjs-aitext",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -158,12 +248,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Delimiter Block Tool for Editor.js",
+                    "homepage": "https://apps.coolbytes.in/editorjs-delimiter",
                     "id": 802186757,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-09T07:50:36Z",
+                    "open_issues": 0,
                     "owner": "PirateDevCom",
                     "repo": "editorjs-delimiter",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "block-tool",
+                      "codex-editor",
+                      "coolbytes",
+                      "delimiter",
+                      "editorjs",
+                      "editorjs-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -174,12 +276,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 720550902,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-11-18T22:27:34Z",
+                    "open_issues": 1,
                     "owner": "EmersonMatias",
                     "repo": "title-editorjs",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -190,12 +297,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Text Color Picker Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 867608970,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-08T10:35:01Z",
+                    "open_issues": 1,
                     "owner": "Matergi",
                     "repo": "editorjs-color-picker",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -206,12 +318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Header Tool with anchor for Editor.js 2.0",
+                    "homepage": null,
                     "id": 291049551,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-07T20:10:49Z",
+                    "open_issues": 0,
                     "owner": "Aleksst95",
                     "repo": "header-with-anchor",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -222,12 +339,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugin to use header with alignment for editorjs  +700 weekly download on npm",
+                    "homepage": "https://www.npmjs.com/package/editorjs-header-with-alignment",
                     "id": 518498966,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-27T12:26:12Z",
+                    "open_issues": 0,
                     "owner": "wandersonsousa",
                     "repo": "header-with-alignment",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "alignmentforeditorjs",
+                      "editorheaderwithalign",
+                      "editorjs",
+                      "editorjsalignment",
+                      "headerwithalignment"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -238,12 +366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An EditorJS inline tool for customizing font size and font family — lightweight, configurable, and easy to use.",
+                    "homepage": null,
                     "id": 1055641708,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-09-13T09:29:43Z",
+                    "open_issues": 0,
                     "owner": "skchawala",
                     "repo": "editorjs-text-style",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -254,12 +387,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Improved Editor.js Quote Block",
+                    "homepage": "https://www.npmjs.com/package/@cychann/editorjs-quote",
                     "id": 894852020,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-03-30T04:22:21Z",
+                    "open_issues": 0,
                     "owner": "cychann",
                     "repo": "editorjs-quote",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-plugin",
+                      "editorjs-tool",
+                      "quote"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -277,12 +420,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advanced List tool for the Editor.js.",
+                    "homepage": null,
                     "id": 340106262,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-15T15:16:57Z",
+                    "open_issues": 18,
                     "owner": "editor-js",
                     "repo": "list",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -293,12 +441,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advanced List tool for the Editor.js.",
+                    "homepage": null,
                     "id": 340106262,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-15T15:16:57Z",
+                    "open_issues": 18,
                     "owner": "editor-js",
                     "repo": "list",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -309,12 +462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Checklist Tool for Editor.js",
+                    "homepage": null,
                     "id": 163825050,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-11-13T18:38:06Z",
+                    "open_issues": 15,
                     "owner": "editor-js",
                     "repo": "checklist",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -325,12 +483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nested list Tool, with checkboxes for EditorJS",
+                    "homepage": null,
                     "id": 483362467,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-07-24T09:57:16Z",
+                    "open_issues": 0,
                     "owner": "calumk",
                     "repo": "editorjs-nested-checklist",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -348,12 +511,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image Block for Editor.js",
+                    "homepage": null,
                     "id": 153910222,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-01T15:45:53Z",
+                    "open_issues": 133,
                     "owner": "editor-js",
                     "repo": "image",
-                    "stars": 284
+                    "stars": 284,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -364,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embed Tool for Editor.js",
+                    "homepage": null,
                     "id": 147860880,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T01:47:18Z",
+                    "open_issues": 54,
                     "owner": "editor-js",
                     "repo": "embed",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -380,12 +553,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unsplash inline images plugin for editorjs ",
+                    "homepage": "https://www.npmjs.com/package/editorjs-inline-image",
                     "id": 266148127,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T11:58:14Z",
+                    "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-plugin",
+                      "hacktoberfest",
+                      "javascript",
+                      "unsplash"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -396,12 +580,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Link Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 89307345,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-01T10:43:29Z",
+                    "open_issues": 32,
                     "owner": "editor-js",
                     "repo": "link",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "editor",
+                      "link-embed",
+                      "link-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -412,12 +607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "File attachments Block for the Editor.js",
+                    "homepage": null,
                     "id": 183615561,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-10-16T11:34:18Z",
+                    "open_issues": 18,
                     "owner": "editor-js",
                     "repo": "attaches",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -428,12 +628,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Image Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 142877600,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-18T20:09:09Z",
+                    "open_issues": 36,
                     "owner": "editor-js",
                     "repo": "simple-image",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "editor",
+                      "image",
+                      "plugin",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -444,12 +656,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Carousel/Gallery Block for the Editor.js (https://editorjs.io).",
+                    "homepage": null,
                     "id": 231845393,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-05-02T07:46:14Z",
+                    "open_issues": 17,
                     "owner": "mr8bit",
                     "repo": "carousel-editorjs",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -460,12 +677,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LaTeX block support for EditorJS",
+                    "homepage": "https://mdgaziur.github.io/EditorJS-LaTeX/example",
                     "id": 294819225,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-17T16:23:12Z",
+                    "open_issues": 1,
                     "owner": "mdgaziur",
                     "repo": "EditorJS-LaTeX",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -476,12 +698,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 513969427,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-07-15T16:27:16Z",
+                    "open_issues": 2,
                     "owner": "naduma",
                     "repo": "editorjs-mermaid",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -492,12 +719,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gallery block for Editor.js with multi-loading and sorting",
+                    "homepage": null,
                     "id": 515914391,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-06-13T14:34:43Z",
+                    "open_issues": 1,
                     "owner": "VolgaIgor",
                     "repo": "editorjs-gallery",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -508,12 +743,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 232529068,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T13:53:34Z",
+                    "open_issues": 15,
                     "owner": "PaulKinlan",
                     "repo": "simple-image",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -524,12 +764,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 719197850,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-11-16T16:18:00Z",
+                    "open_issues": 0,
                     "owner": "renanrider",
                     "repo": "editorjs-audio-player",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -540,12 +785,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Drawing Tool for EditorJs",
+                    "homepage": null,
                     "id": 926345764,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-29T03:48:53Z",
+                    "open_issues": 0,
                     "owner": "blade47",
                     "repo": "editorjs-drawing-tool",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -556,12 +806,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image Block for Editor.js",
+                    "homepage": null,
                     "id": 785533344,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-04-16T03:57:19Z",
+                    "open_issues": 0,
                     "owner": "kaaaaaaaaaaai",
                     "repo": "image-with-link",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -572,12 +827,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Editor.js Group Image Block with drag-and-drop",
+                    "homepage": "https://www.npmjs.com/package/@cychann/editorjs-group-image",
                     "id": 1006051742,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-06-22T17:32:38Z",
+                    "open_issues": 0,
                     "owner": "cychann",
                     "repo": "editorjs-group-image",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-plugin",
+                      "editorjs-tool",
+                      "group-image"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -588,12 +853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An EditorJS tool to upload audio files and use them as a HTML audio element in your EditorJS posts. This is mostly a copy of EditorJS's own image tool, rewritten to work with audio files.",
+                    "homepage": null,
                     "id": 879983252,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-30T19:39:59Z",
+                    "open_issues": 0,
                     "owner": "Furison-Tech",
                     "repo": "editorjs-audio",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -604,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool to enable adding GIFs to your editorjs setup",
+                    "homepage": null,
                     "id": 1010427069,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-04T03:36:10Z",
+                    "open_issues": 0,
                     "owner": "jingjunm",
                     "repo": "editorjs-gif",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -620,12 +895,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 774375710,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-06-29T09:44:46Z",
+                    "open_issues": 0,
                     "owner": "sureshHARDIYA",
                     "repo": "flipboxplus",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -636,12 +916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source plugin for image editing of editorjs's image block using cropperjs.",
+                    "homepage": "https://editorjs-image-crop-resize.vercel.app",
                     "id": 1061117935,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-24T19:28:37Z",
+                    "open_issues": 0,
                     "owner": "mohdaffann",
                     "repo": "editorjs-image-crop-resize",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -659,12 +944,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Table constructor for Editor.js ",
+                    "homepage": null,
                     "id": 156727511,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T20:32:35Z",
+                    "open_issues": 55,
                     "owner": "editor-js",
                     "repo": "table",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -675,12 +965,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "editorjs-table",
+                    "homepage": null,
                     "id": 311240886,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2024-06-04T14:38:53Z",
+                    "open_issues": 13,
                     "owner": "codinova-tech",
                     "repo": "editorjs-table",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -698,12 +993,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chart constructor for Editor.js using Chart.js",
+                    "homepage": null,
                     "id": 1094278368,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-11-13T11:26:08Z",
+                    "open_issues": 0,
                     "owner": "Alkosik",
                     "repo": "editorjs-chartjs",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -721,12 +1021,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 105693823,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-29T15:14:09Z",
+                    "open_issues": 16,
                     "owner": "editor-js",
                     "repo": "code",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -737,12 +1042,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Raw HTML tool for Editor.js",
+                    "homepage": null,
                     "id": 102160658,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-04T09:48:21Z",
+                    "open_issues": 19,
                     "owner": "editor-js",
                     "repo": "raw",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "editorjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -753,12 +1065,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code highlighting tool for Editor.js",
+                    "homepage": null,
                     "id": 239874080,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-15T05:18:58Z",
+                    "open_issues": 11,
                     "owner": "dev-juju",
                     "repo": "codebox",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -769,12 +1086,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CodeMiirror for EditorJS",
+                    "homepage": null,
                     "id": 241719097,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-05T09:21:01Z",
+                    "open_issues": 15,
                     "owner": "alexiej",
                     "repo": "editorjs-codemirror",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -785,12 +1107,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Code syntax highlighting tool for Editor.js, Built with Codeflask",
+                    "homepage": null,
                     "id": 483233749,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-01-13T08:19:31Z",
+                    "open_issues": 9,
                     "owner": "calumk",
                     "repo": "editorjs-codeflask",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -801,12 +1128,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code Tool for Editor.js 2.0 with language selector compatible with PrismJs Language Codes",
+                    "homepage": null,
                     "id": 267939535,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-06-18T20:21:48Z",
+                    "open_issues": 0,
                     "owner": "paraswaykole",
                     "repo": "editor-js-code",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -817,12 +1149,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EditorJS Block Tool using ACE Code Editor.",
+                    "homepage": "https://ace-code-editorjs.pages.dev/",
                     "id": 660993716,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-06-30T12:59:56Z",
+                    "open_issues": 0,
                     "owner": "hsnfirdaus",
                     "repo": "ace-code-editorjs",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -833,12 +1170,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Custom Code Tool for Editor.js 2.0",
+                    "homepage": null,
                     "id": 1236642339,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2026-05-12T12:44:16Z",
+                    "open_issues": 0,
                     "owner": "rajatxs",
                     "repo": "editor-js-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "javascript",
+                      "npm",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -856,12 +1202,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "button plugin for Editor.js",
+                    "homepage": null,
                     "id": 321018429,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-07T01:08:34Z",
+                    "open_issues": 5,
                     "owner": "kaaaaaaaaaaai",
                     "repo": "editorjs-button",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -879,12 +1230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 488765349,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-04-02T11:48:37Z",
+                    "open_issues": 11,
                     "owner": "calumk",
                     "repo": "editorjs-columns",
-                    "stars": 141
+                    "stars": 141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -895,12 +1251,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Layout block tool for Editor.js. ",
+                    "homepage": "https://hata6502.github.io/editorjs-layout/",
                     "id": 331268880,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-06-01T15:51:31Z",
+                    "open_issues": 5,
                     "owner": "hata6502",
                     "repo": "editorjs-layout",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": [
+                      "codex-editor",
+                      "editorjs",
+                      "layout",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -911,12 +1277,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Editorjs block tool that allows selecting blocks for accordion behaviour",
+                    "homepage": "https://www.npmjs.com/package/editorjs-collapsible-block",
                     "id": 1034723278,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-06T08:21:19Z",
+                    "open_issues": 0,
                     "owner": "sebmeister2077",
                     "repo": "editorjs-accordion",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -939,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marker Tool for Editor.js 2.0",
+                "homepage": null,
                 "id": 145454808,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-06T15:38:55Z",
+                "open_issues": 12,
                 "owner": "editor-js",
                 "repo": "marker",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -955,12 +1331,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline-style Tool for Editor.js",
+                "homepage": "https://hata6502.github.io/editorjs-style/",
                 "id": 292460881,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-04T10:24:15Z",
+                "open_issues": 11,
                 "owner": "hata6502",
                 "repo": "editorjs-style",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "codex",
+                  "editor",
+                  "editorjs",
+                  "style",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -971,12 +1358,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline-Code Tool for Editor.js 2.0",
+                "homepage": null,
                 "id": 143147202,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-30T11:46:57Z",
+                "open_issues": 13,
                 "owner": "editor-js",
                 "repo": "inline-code",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "code",
+                  "codex",
+                  "codex-editor",
+                  "inline-tool",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -987,12 +1385,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tooltips for editorjs",
+                "homepage": "https://www.npmjs.com/package/editorjs-tooltip",
                 "id": 411740061,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:16:49Z",
+                "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "editorjs",
+                  "editorjs-tool",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1003,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Link with target & rel attribute for Editor.js",
+                "homepage": null,
                 "id": 311134119,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-18T20:13:52Z",
+                "open_issues": 15,
                 "owner": "trinhtam",
                 "repo": "editorjs-hyperlink",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1019,12 +1431,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline-Editor.js Tool for Editor.js",
+                "homepage": "https://hata6502.github.io/editorjs-inline/",
                 "id": 286484238,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-04T10:24:15Z",
+                "open_issues": 13,
                 "owner": "hata6502",
                 "repo": "editorjs-inline",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "codex",
+                  "editor",
+                  "editorjs",
+                  "inline",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1035,12 +1458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An upgraded version of base inline link tool with your server's search.",
+                "homepage": null,
                 "id": 372912364,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-18T20:09:53Z",
+                "open_issues": 7,
                 "owner": "editor-js",
                 "repo": "link-autocomplete",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1051,12 +1479,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows to add an extended annotation to any text in EditorJS block",
+                "homepage": null,
                 "id": 661792825,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-07T13:24:46Z",
+                "open_issues": 1,
                 "owner": "VolgaIgor",
                 "repo": "editorjs-annotation",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "editorjs",
+                  "editorjs-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1067,12 +1503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline tool for underlining text fragments",
+                "homepage": null,
                 "id": 217547804,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-10-12T12:39:20Z",
+                "open_issues": 15,
                 "owner": "editor-js",
                 "repo": "underline",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1083,12 +1524,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...).",
+                "homepage": "https://editorjs-inline-tool.netlify.com",
                 "id": 224275344,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-01T15:28:14Z",
+                "open_issues": 0,
                 "owner": "natterstefan",
                 "repo": "editorjs-inline-tool",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "editorjs",
+                  "editorjs-component",
+                  "editorjs-inline-tool",
+                  "editorjs-inlinetool"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1099,12 +1550,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline-template Tool for Editor.js",
+                "homepage": "https://hata6502.github.io/editorjs-inline-template/",
                 "id": 335267571,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T05:17:27Z",
+                "open_issues": 16,
                 "owner": "hata6502",
                 "repo": "editorjs-inline-template",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "codex",
+                  "editorjs",
+                  "inline",
+                  "template",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1115,12 +1577,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Change Case Inline Tool for the Editor.js.",
+                "homepage": null,
                 "id": 380762693,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T21:43:44Z",
+                "open_issues": 2,
                 "owner": "maziyank",
                 "repo": "editorjs-change-case",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "change-case",
+                  "editorjs",
+                  "editorjs-plugin",
+                  "inline"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1131,12 +1603,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editorjs plugin that allows you to add comment to editorjs  (Editorjs-comment )",
+                "homepage": "https://www.npmjs.com/package/editorjs-comment",
                 "id": 759002479,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-02-27T10:56:02Z",
+                "open_issues": 0,
                 "owner": "osain-az",
                 "repo": "editorjs-comment",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "editorjs",
+                  "editorjs-comment",
+                  "editorjs-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1147,12 +1628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 953580288,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-03-25T15:20:38Z",
+                "open_issues": 0,
                 "owner": "Stuhl",
                 "repo": "editorjs-inline-hotkey",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1163,12 +1649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "editorjs plugin to provide color palette functionality",
+                "homepage": null,
                 "id": 838758689,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-01T08:41:38Z",
+                "open_issues": 0,
                 "owner": "Vinsurs",
                 "repo": "editorjs-color",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1179,12 +1670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline tool for adding spoilers to text fragments, supporting export to telegram",
+                "homepage": null,
                 "id": 958654477,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-04T14:34:32Z",
+                "open_issues": 0,
                 "owner": "izotikov",
                 "repo": "editor-js-tg-spoiler",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1202,12 +1698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 354708912,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-03-20T06:40:45Z",
+                "open_issues": 13,
                 "owner": "kaaaaaaaaaaai",
                 "repo": "editorjs-alignment-blocktune",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1218,12 +1719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Block Tune for text variants: Call-out, Citation, Details",
+                "homepage": null,
                 "id": 358365325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-17T17:22:50Z",
+                "open_issues": 4,
                 "owner": "editor-js",
                 "repo": "text-variant-tune",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1234,12 +1740,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notice with caption for any Editor.js block",
+                "homepage": null,
                 "id": 517336845,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-03T13:30:43Z",
+                "open_issues": 0,
                 "owner": "VolgaIgor",
                 "repo": "editorjs-notice",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "editorjs",
+                  "editorjs-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1250,12 +1764,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anchor Block Tune for Editor.js",
+                "homepage": "https://apps.coolbytes.in/editorjs-anchor",
                 "id": 801164629,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-05T03:27:19Z",
+                "open_issues": 0,
                 "owner": "PirateDevCom",
                 "repo": "editorjs-anchor",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "anchor",
+                  "block-tune",
+                  "codex-editor",
+                  "coolbytes",
+                  "editorjs",
+                  "editorjs-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1266,12 +1792,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Append field with anchor to any Editor.js block",
+                "homepage": null,
                 "id": 359517389,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-11T15:47:52Z",
+                "open_issues": 0,
                 "owner": "VolgaIgor",
                 "repo": "editorjs-anchor",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "editorjs",
+                  "editorjs-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1282,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 858867283,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-09-23T12:16:11Z",
+                "open_issues": 1,
                 "owner": "Diesnei",
                 "repo": "editor-js-alignment-tune",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1305,12 +1844,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drag and Drop feature for Editor.js",
+                "homepage": "https://www.npmjs.com/package/editorjs-drag-drop",
                 "id": 272760205,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:04:14Z",
+                "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "drag-and-drop",
+                  "editorjs",
+                  "editorjs-plugin",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1321,12 +1871,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Undo/Redo feature for Editor.js",
+                "homepage": "https://www.npmjs.com/package/editorjs-undo",
                 "id": 271114793,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:54:23Z",
+                "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "editorjs",
+                  "editorjs-plugin",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1337,12 +1897,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple Markdown Importer/Exporter for EditorJS",
+                "homepage": null,
                 "id": 290132263,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-13T19:36:50Z",
+                "open_issues": 0,
                 "owner": "stejul",
                 "repo": "editorjs-markdown-parser",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "editor-js",
+                  "editorjs",
+                  "export",
+                  "import",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1366,12 +1937,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A javascript library to parse editorjs clean data to html. It is adaptable and usable in all kind of projects.",
+                "homepage": "https://runkit.com/pavittarx/editorjs-html-example",
                 "id": 259188294,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-20T19:46:08Z",
+                "open_issues": 4,
                 "owner": "pavittarx",
                 "repo": "editorjs-html",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "editor",
+                  "editorjs",
+                  "editorjs-html",
+                  "html",
+                  "javascript",
+                  "javascript-library",
+                  "nodejs",
+                  "react",
+                  "rendering",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1382,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This package parses output blocks of Editorjs to html",
+                "homepage": null,
                 "id": 302007767,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T12:06:34Z",
+                "open_issues": 7,
                 "owner": "miadabdi",
                 "repo": "editorjs-parser",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1398,12 +1990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "editor.js for Vue and React library",
+                "homepage": "https://webjeffery.github.io/editor-js-component/",
                 "id": 717657033,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-23T16:52:53Z",
+                "open_issues": 1,
                 "owner": "WebJeffery",
                 "repo": "editor-js-component",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1414,12 +2011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "parse editorjs content format to html with saving editorjs layouts",
+                "homepage": null,
                 "id": 579451800,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-01-27T09:45:27Z",
+                "open_issues": 1,
                 "owner": "vorjyga",
                 "repo": "editorjs-to-html",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1432,12 +2034,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "editor.js for Vue users",
+                    "homepage": "https://codesandbox.io/embed/o7lyqwmvmq",
                     "id": 179216347,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-06T17:28:06Z",
+                    "open_issues": 47,
                     "owner": "ChangJoo-Park",
                     "repo": "vue-editor-js",
-                    "stars": 363
+                    "stars": 363,
+                    "topics": [
+                      "editor",
+                      "editorjs",
+                      "plugin",
+                      "vue",
+                      "vue-composition-api",
+                      "vue-editor-js",
+                      "vue3",
+                      "wysiwyg-editor",
+                      "wysiwyg-js-editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -1455,12 +2072,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚛️📝The unofficial editor-js component for React",
+                    "homepage": "https://codesandbox.io/s/react-editor-js-v2-34bfl",
                     "id": 179398051,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-01-04T18:44:15Z",
+                    "open_issues": 39,
                     "owner": "Jungwoo-An",
                     "repo": "react-editor-js",
-                    "stars": 971
+                    "stars": 971,
+                    "topics": [
+                      "editor-js",
+                      "react",
+                      "typescript-library",
+                      "wysiwyg"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1471,12 +2098,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📔 Renders EditorJS blocks to semantic React HTML5 components. Unnopinated and flexible.",
+                    "homepage": null,
                     "id": 286702567,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-12T06:08:19Z",
+                    "open_issues": 32,
                     "owner": "moveyourdigital",
                     "repo": "editorjs-blocks-react-renderer",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": [
+                      "editorjs",
+                      "editorjs-component",
+                      "editorjs-converter",
+                      "editorjs-html",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1487,12 +2125,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React wrapper component for Editor.js",
+                    "homepage": null,
                     "id": 180645514,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-03T19:28:54Z",
+                    "open_issues": 24,
                     "owner": "stfy",
                     "repo": "react-editor.js",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1503,12 +2146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 490220423,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-16T09:34:50Z",
+                    "open_issues": 3,
                     "owner": "etozhealkhipce",
                     "repo": "editorjs-react",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1519,12 +2167,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A renderer for editorjs block data to react components",
+                    "homepage": null,
                     "id": 806113398,
                     "language": "TypeScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-06-15T10:01:11Z",
+                    "open_issues": 0,
                     "owner": "cevinw",
                     "repo": "editorjs-react-parser",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1535,12 +2188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 877409806,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-05-19T10:43:24Z",
+                    "open_issues": 1,
                     "owner": "gosvoh",
                     "repo": "editorjs-antd-renderer",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -1558,12 +2216,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A React Native solution to parse outputData generated by EditorJs.",
+                    "homepage": "https://www.npmjs.com/package/editorjs-viewer-native",
                     "id": 584252641,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-06-16T13:16:58Z",
+                    "open_issues": 4,
                     "owner": "Hidekih",
                     "repo": "editorjs-viewer-native",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "editorjs",
+                      "react-native",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1574,12 +2241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A React Native viewer for JSON created by EditorJS",
+                    "homepage": "https://getbiblebites.com/opensource",
                     "id": 917965606,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-06T04:10:59Z",
+                    "open_issues": 4,
                     "owner": "BibleBites",
                     "repo": "editorjs-renderer-react-native",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -1597,12 +2269,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "editorjs svelte wrapper",
+                    "homepage": "https://sveditorjs.vercel.app",
                     "id": 711954722,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-11-02T17:12:53Z",
+                    "open_issues": 2,
                     "owner": "pouchcms",
                     "repo": "sveditorjs",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 }
@@ -1625,12 +2302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP backend for Editor.js",
+                "homepage": "https://editorjs.io",
                 "id": 82296669,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-04-17T19:31:41Z",
+                "open_issues": 14,
                 "owner": "editor-js",
                 "repo": "editorjs-php",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "codex",
+                  "codex-editor",
+                  "htmlpurifier"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1641,12 +2327,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor JS field for Laravel Nova",
+                "homepage": null,
                 "id": 179136432,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-06-01T17:05:19Z",
+                "open_issues": 24,
                 "owner": "advoor",
                 "repo": "nova-editor-js",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "laravel",
+                  "laravel-nova",
+                  "laravel-nova-field"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1657,12 +2352,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor.php is a package designed to assist in parsing and manipulating the output of Editor.js with ease.",
+                "homepage": "https://bumpcore.com/docs/editorphp",
                 "id": 579156015,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-12T09:10:11Z",
+                "open_issues": 3,
                 "owner": "bumpcore",
                 "repo": "editor.php",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "editor",
+                  "editorjs",
+                  "editorjs-parser",
+                  "laravel",
+                  "laravel-package",
+                  "php",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1673,12 +2381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symfony bundle for Editor.js",
+                "homepage": null,
                 "id": 201895752,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-02-02T12:01:51Z",
+                "open_issues": 7,
                 "owner": "tbmatuka",
                 "repo": "EditorjsBundle",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1689,12 +2402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A symfony bundle to parse data generated by EditorJS",
+                "homepage": null,
                 "id": 356417254,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-18T14:52:44Z",
+                "open_issues": 3,
                 "owner": "SyntaxPhoenix",
                 "repo": "editorjs-symfony-parser-bundle",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1705,12 +2423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 166716593,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-10-14T16:35:36Z",
+                "open_issues": 1,
                 "owner": "Archakov06",
                 "repo": "codex-to-html",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1721,12 +2444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 267535677,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-10-27T13:38:40Z",
+                "open_issues": 3,
                 "owner": "AlexSabur",
                 "repo": "orchid-editorjs-field",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1737,12 +2465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor.js widget for Yii 2",
+                "homepage": null,
                 "id": 263117327,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-05-12T17:04:46Z",
+                "open_issues": 2,
                 "owner": "zakurdaev",
                 "repo": "yii2-editorjs-widget",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1753,12 +2486,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple HTML & JSON parser write in php for Editor.js",
+                "homepage": null,
                 "id": 729588760,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-04T10:52:20Z",
+                "open_issues": 1,
                 "owner": "Edd-G",
                 "repo": "editorjs-simple-html-parser",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "editor",
+                  "editorjs",
+                  "editorjs-converter",
+                  "editorjs-html",
+                  "editorjs-json",
+                  "editorjs-parser",
+                  "editorjs-to-html",
+                  "html",
+                  "html-to-editorjs",
+                  "parser"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1769,12 +2518,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor.js integration for Symfony",
+                "homepage": "https://packagist.org/packages/pentiminax/ux-editor",
                 "id": 965659456,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-22T21:43:27Z",
+                "open_issues": 2,
                 "owner": "pentiminax",
                 "repo": "ux-editor",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "editor",
+                  "javascript",
+                  "symfony-bundle",
+                  "symfony-ux",
+                  "ux"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1785,12 +2545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EditorJS Integration for Magento 2",
+                "homepage": null,
                 "id": 379383734,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-23T17:09:21Z",
+                "open_issues": 0,
                 "owner": "Wamoco",
                 "repo": "magento2-editorjs",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1808,12 +2573,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django plugin for using Editor.js",
+                "homepage": null,
                 "id": 303686569,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T17:00:13Z",
+                "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "django-editor",
+                  "django-wysiwyg",
+                  "editorjs",
+                  "python",
+                  "wysiwyg"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1824,12 +2602,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple Editor.js parser written in pure Python",
+                "homepage": null,
                 "id": 420383595,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-10T12:28:34Z",
+                "open_issues": 1,
                 "owner": "SKevo18",
                 "repo": "pyEditorJS",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "editorjs",
+                  "editorjs-converter",
+                  "editorjs-tool",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1847,12 +2636,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular and customizable Ruby renderer for https://editorjs.io",
+                "homepage": null,
                 "id": 425332359,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-30T09:49:21Z",
+                "open_issues": 2,
                 "owner": "ceritium",
                 "repo": "render_editorjs",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "editorjs",
+                  "renderer",
+                  "wysiwyg"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1870,12 +2668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast markdown/HTML generator for Editor.js",
+                "homepage": null,
                 "id": 292380772,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-14T10:48:53Z",
+                "open_issues": 1,
                 "owner": "micheleriva",
                 "repo": "editorjs-go",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1886,12 +2689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML/markdown generator for editorjs.",
+                "homepage": null,
                 "id": 321100332,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-02-02T20:23:19Z",
+                "open_issues": 0,
                 "owner": "davidscottmills",
                 "repo": "goeditorjs",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1909,12 +2717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 193479362,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:05:01Z",
+                "open_issues": 5,
                 "owner": "Upstarts",
                 "repo": "editor.js-kit-ios",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1932,12 +2745,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 192549331,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2024-04-27T10:42:08Z",
+                "open_issues": 1,
                 "owner": "Upstarts",
                 "repo": "editor.js-kit-android",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1955,12 +2773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editorjs JSON格式转MD格式转换引擎",
+                "homepage": null,
                 "id": 1039884799,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2025-08-18T06:22:57Z",
+                "open_issues": 0,
                 "owner": "PiuPiue",
                 "repo": "EditorjsToMarkdown",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -1978,12 +2801,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Block editor (Editor.js) interface for Directus 9",
+                "homepage": "https://www.npmjs.com/package/directus-extension-editorjs",
                 "id": 318789143,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-17T07:56:02Z",
+                "open_issues": 12,
                 "owner": "dimitrov-adrian",
                 "repo": "directus-extension-editorjs-interface",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "block-editor",
+                  "directus",
+                  "directus-extension",
+                  "directus-extension-interface",
+                  "editorjs"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -1994,12 +2828,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📝 Plugin for Strapi Headless CMS, hiding the standard WYSIWYG editor on Editor.js",
+                "homepage": "https://www.npmjs.com/package/strapi-plugin-react-editorjs",
                 "id": 395070464,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-07T09:34:14Z",
+                "open_issues": 39,
                 "owner": "melishev",
                 "repo": "strapi-plugin-react-editorjs",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "editor",
+                  "editorjs",
+                  "plugin",
+                  "strapi",
+                  "wysiwyg"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -2010,12 +2855,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor.js plugin for Cotonti CMF - Modern block-style editor",
+                "homepage": null,
                 "id": 739681760,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-04-14T19:07:18Z",
+                "open_issues": 1,
                 "owner": "Edd-G",
                 "repo": "cot-editorjs",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cotonti",
+                  "cotonti-siena",
+                  "editor",
+                  "editorjs"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -2037,12 +2892,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
+            "homepage": "https://github.com/codex-team/editor.js",
             "id": 271224625,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-05T07:43:42Z",
+            "open_issues": 22,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2867
+            "stars": 2868,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "editorjs",
+              "libraries",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.604Z"
         },
@@ -2053,12 +2919,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sticky notes for the web.",
+            "homepage": null,
             "id": 454683852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-11T19:36:35Z",
+            "open_issues": 13,
             "owner": "kvgc153",
             "repo": "WebResearcherJS",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "annotation",
+              "chrome",
+              "firefox",
+              "firefox-extension",
+              "firefox-webextension",
+              "javascript",
+              "jquery",
+              "note-taking",
+              "research-tool",
+              "web-annotation",
+              "web-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.604Z"
         },
@@ -2071,12 +2954,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Docs app powered by Editor.js ecosystem",
+                "homepage": "https://docs.codex.so",
                 "id": 144308900,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T18:02:33Z",
+                "open_issues": 32,
                 "owner": "codex-team",
                 "repo": "codex.docs",
-                "stars": 847
+                "stars": 847,
+                "topics": [
+                  "docs",
+                  "editorjs",
+                  "notes"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -2087,12 +2979,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WIP: crossplatform desktop notes application based on Electron and Editor.js",
+                "homepage": null,
                 "id": 101810581,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T23:42:02Z",
+                "open_issues": 29,
                 "owner": "codex-team",
                 "repo": "codex.notes",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "codex-editor",
+                  "electron",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             },
@@ -2103,12 +3005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for building a modern UGC media",
+                "homepage": "https://codex.so/media",
                 "id": 46662693,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T07:52:35Z",
+                "open_issues": 59,
                 "owner": "codex-team",
                 "repo": "codex.media",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
             }
@@ -2122,15 +3029,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:57:26.604Z",
+    "last_updated": "2026-08-29T04:20:04.162Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
+      "homepage": "https://github.com/codex-team/editor.js",
       "id": 271224625,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-05T07:43:42Z",
+      "open_issues": 22,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2867
+      "stars": 2868,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "editorjs",
+        "libraries",
+        "tools"
+      ]
     },
     "original_repository_sha": "d7d9029802ea1a2e594b69fd6bcbea94a38e4721",
     "enhanced_repository": "enhansome/enhansome-editorjs",
