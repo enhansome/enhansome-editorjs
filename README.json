@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T00:57:51Z",
+                    "last_commit": "2026-09-01T08:54:12Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1876,7 +1876,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T01:54:20Z",
+                "last_commit": "2026-09-01T09:15:56Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2722,8 +2722,8 @@
                 "id": 193479362,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-26T15:05:01Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-31T21:15:20Z",
+                "open_issues": 0,
                 "owner": "Upstarts",
                 "repo": "editor.js-kit-ios",
                 "stars": 34,
@@ -2810,7 +2810,7 @@
                 "open_issues": 12,
                 "owner": "dimitrov-adrian",
                 "repo": "directus-extension-editorjs-interface",
-                "stars": 186,
+                "stars": 185,
                 "topics": [
                   "block-editor",
                   "directus",
@@ -2901,7 +2901,7 @@
             "open_issues": 22,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2869,
+            "stars": 2868,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:10:30.304Z",
+    "last_updated": "2026-09-01T09:37:32.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 22,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2869,
+      "stars": 2868,
       "topics": [
         "awesome",
         "awesome-list",
