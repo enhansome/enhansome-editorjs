@@ -23,7 +23,7 @@
                     "open_issues": 39,
                     "owner": "editor-js",
                     "repo": "header",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -109,7 +109,7 @@
                     "open_issues": 30,
                     "owner": "editor-js",
                     "repo": "paragraph",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -137,7 +137,7 @@
                     "open_issues": 23,
                     "owner": "editor-js",
                     "repo": "quote",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -145,6 +145,33 @@
                       "plugin",
                       "quote",
                       "tool"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:26.604Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "@editorjs/delimiter",
+                  "description": "delimiter tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Delimiter plugin for Editor.js 2.0",
+                    "homepage": null,
+                    "id": 142914217,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2024-08-17T18:12:25Z",
+                    "open_issues": 8,
+                    "owner": "editor-js",
+                    "repo": "delimiter",
+                    "stars": 50,
+                    "topics": [
+                      "codex",
+                      "codex-editor",
+                      "delimiter",
+                      "editor",
+                      "plugin"
                     ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -172,33 +199,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "@editorjs/delimiter",
-                  "description": "delimiter tool",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Delimiter plugin for Editor.js 2.0",
-                    "homepage": null,
-                    "id": 142914217,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2024-08-17T18:12:25Z",
-                    "open_issues": 8,
-                    "owner": "editor-js",
-                    "repo": "delimiter",
-                    "stars": 49,
-                    "topics": [
-                      "codex",
-                      "codex-editor",
-                      "delimiter",
-                      "editor",
-                      "plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:26.604Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "@editorjs/warning",
                   "description": "warning tool can be used as editorials notifications or appeals",
                   "children": [],
@@ -213,7 +213,7 @@
                     "open_issues": 11,
                     "owner": "editor-js",
                     "repo": "warning",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": [
                       "codex"
                     ]
@@ -471,7 +471,7 @@
                     "open_issues": 15,
                     "owner": "editor-js",
                     "repo": "checklist",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -520,7 +520,7 @@
                     "open_issues": 133,
                     "owner": "editor-js",
                     "repo": "image",
-                    "stars": 284,
+                    "stars": 285,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -541,7 +541,7 @@
                     "open_issues": 54,
                     "owner": "editor-js",
                     "repo": "embed",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -562,7 +562,7 @@
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
-                    "stars": 113,
+                    "stars": 112,
                     "topics": [
                       "editorjs",
                       "editorjs-plugin",
@@ -589,7 +589,7 @@
                     "open_issues": 32,
                     "owner": "editor-js",
                     "repo": "link",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -616,7 +616,7 @@
                     "open_issues": 18,
                     "owner": "editor-js",
                     "repo": "attaches",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -637,7 +637,7 @@
                     "open_issues": 36,
                     "owner": "editor-js",
                     "repo": "simple-image",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -953,7 +953,7 @@
                     "open_issues": 55,
                     "owner": "editor-js",
                     "repo": "table",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1030,7 +1030,7 @@
                     "open_issues": 16,
                     "owner": "editor-js",
                     "repo": "code",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1051,7 +1051,7 @@
                     "open_issues": 19,
                     "owner": "editor-js",
                     "repo": "raw",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": [
                       "editorjs"
                     ]
@@ -1319,7 +1319,7 @@
                 "open_issues": 12,
                 "owner": "editor-js",
                 "repo": "marker",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1367,7 +1367,7 @@
                 "open_issues": 13,
                 "owner": "editor-js",
                 "repo": "inline-code",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "code",
                   "codex",
@@ -1853,7 +1853,7 @@
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
-                "stars": 210,
+                "stars": 209,
                 "topics": [
                   "drag-and-drop",
                   "editorjs",
@@ -1880,7 +1880,7 @@
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
-                "stars": 195,
+                "stars": 193,
                 "topics": [
                   "editorjs",
                   "editorjs-plugin",
@@ -2107,7 +2107,7 @@
                     "open_issues": 32,
                     "owner": "moveyourdigital",
                     "repo": "editorjs-blocks-react-renderer",
-                    "stars": 147,
+                    "stars": 146,
                     "topics": [
                       "editorjs",
                       "editorjs-component",
@@ -2311,7 +2311,7 @@
                 "open_issues": 14,
                 "owner": "editor-js",
                 "repo": "editorjs-php",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "codex",
                   "codex-editor",
@@ -2901,7 +2901,7 @@
             "open_issues": 22,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2869,
+            "stars": 2870,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:39:39.694Z",
+    "last_updated": "2026-09-06T08:58:57.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 22,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2869,
+      "stars": 2870,
       "topics": [
         "awesome",
         "awesome-list",
