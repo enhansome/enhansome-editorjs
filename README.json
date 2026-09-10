@@ -77,7 +77,7 @@
                     "id": 447778042,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T21:51:34Z",
+                    "last_commit": "2026-09-09T18:36:45Z",
                     "open_issues": 8,
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
@@ -306,7 +306,7 @@
                     "open_issues": 1,
                     "owner": "Matergi",
                     "repo": "editorjs-color-picker",
-                    "stars": 11,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T04:47:39Z",
+                    "last_commit": "2026-09-09T19:45:10Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1390,7 +1390,7 @@
                 "id": 411740061,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:55:18Z",
+                "last_commit": "2026-09-09T22:13:34Z",
                 "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
@@ -1849,7 +1849,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T06:03:40Z",
+                "last_commit": "2026-09-09T20:12:50Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1876,7 +1876,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T05:52:09Z",
+                "last_commit": "2026-09-09T18:34:18Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2311,7 +2311,7 @@
                 "open_issues": 14,
                 "owner": "editor-js",
                 "repo": "editorjs-php",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "codex",
                   "codex-editor",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:15:05.574Z",
+    "last_updated": "2026-09-10T09:13:46.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
