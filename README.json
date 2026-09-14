@@ -589,7 +589,7 @@
                     "open_issues": 32,
                     "owner": "editor-js",
                     "repo": "link",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -616,7 +616,7 @@
                     "open_issues": 18,
                     "owner": "editor-js",
                     "repo": "attaches",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -2901,7 +2901,7 @@
             "open_issues": 23,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2870,
+            "stars": 2871,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:48:11.535Z",
+    "last_updated": "2026-09-14T10:09:02.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 23,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2870,
+      "stars": 2871,
       "topics": [
         "awesome",
         "awesome-list",
