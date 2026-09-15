@@ -109,7 +109,7 @@
                     "open_issues": 30,
                     "owner": "editor-js",
                     "repo": "paragraph",
-                    "stars": 60,
+                    "stars": 59,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -285,7 +285,7 @@
                     "open_issues": 1,
                     "owner": "EmersonMatias",
                     "repo": "title-editorjs",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -375,7 +375,7 @@
                     "open_issues": 0,
                     "owner": "skchawala",
                     "repo": "editorjs-text-style",
-                    "stars": 7,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1725,7 +1725,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-17T17:22:50Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "editor-js",
                 "repo": "text-variant-tune",
                 "stars": 17,
@@ -2582,7 +2582,7 @@
                 "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "django",
                   "django-admin",
@@ -2901,7 +2901,7 @@
             "open_issues": 23,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2871,
+            "stars": 2870,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:09:02.220Z",
+    "last_updated": "2026-09-15T09:38:44.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 23,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2871,
+      "stars": 2870,
       "topics": [
         "awesome",
         "awesome-list",
