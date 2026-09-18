@@ -562,7 +562,7 @@
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "editorjs",
                       "editorjs-plugin",
@@ -1853,7 +1853,7 @@
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "drag-and-drop",
                   "editorjs",
@@ -2107,7 +2107,7 @@
                     "open_issues": 32,
                     "owner": "moveyourdigital",
                     "repo": "editorjs-blocks-react-renderer",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": [
                       "editorjs",
                       "editorjs-component",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:41:31.363Z",
+    "last_updated": "2026-09-18T09:14:58.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
