@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T01:05:40Z",
+                    "last_commit": "2026-09-21T22:23:06Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1849,7 +1849,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:52:02Z",
+                "last_commit": "2026-09-21T22:10:05Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -2901,7 +2901,7 @@
             "open_issues": 23,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2872,
+            "stars": 2873,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2960,10 +2960,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T18:02:33Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "codex-team",
                 "repo": "codex.docs",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "docs",
                   "editorjs",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:14:39.189Z",
+    "last_updated": "2026-09-22T09:30:29.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 23,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2872,
+      "stars": 2873,
       "topics": [
         "awesome",
         "awesome-list",
