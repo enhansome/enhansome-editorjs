@@ -728,7 +728,7 @@
                     "open_issues": 1,
                     "owner": "VolgaIgor",
                     "repo": "editorjs-gallery",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": [
                       "editorjs",
                       "editorjs-plugin"
@@ -1853,7 +1853,7 @@
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "drag-and-drop",
                   "editorjs",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:30:29.574Z",
+    "last_updated": "2026-09-23T09:35:17.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
