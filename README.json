@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T22:23:06Z",
+                    "last_commit": "2026-09-24T01:40:38Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1340,7 +1340,7 @@
                 "open_issues": 11,
                 "owner": "hata6502",
                 "repo": "editorjs-style",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "codex",
                   "editor",
@@ -1390,7 +1390,7 @@
                 "id": 411740061,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T23:32:47Z",
+                "last_commit": "2026-09-24T06:02:59Z",
                 "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
@@ -1849,7 +1849,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T22:10:05Z",
+                "last_commit": "2026-09-23T23:09:03Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1876,7 +1876,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T23:39:20Z",
+                "last_commit": "2026-09-23T23:07:55Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2901,7 +2901,7 @@
             "open_issues": 23,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2873,
+            "stars": 2872,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:35:17.215Z",
+    "last_updated": "2026-09-24T09:35:05.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3041,7 +3041,7 @@
       "open_issues": 23,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2873,
+      "stars": 2872,
       "topics": [
         "awesome",
         "awesome-list",
