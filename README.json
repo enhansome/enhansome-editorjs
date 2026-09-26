@@ -2361,7 +2361,7 @@
                 "open_issues": 3,
                 "owner": "bumpcore",
                 "repo": "editor.php",
-                "stars": 48,
+                "stars": 47,
                 "topics": [
                   "editor",
                   "editorjs",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:52:08.045Z",
+    "last_updated": "2026-09-26T09:34:46.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
