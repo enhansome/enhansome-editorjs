@@ -2193,7 +2193,7 @@
                     "id": 877409806,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-05-19T10:43:24Z",
+                    "last_commit": "2026-09-28T18:53:23Z",
                     "open_issues": 1,
                     "owner": "gosvoh",
                     "repo": "editorjs-antd-renderer",
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:16:35.311Z",
+    "last_updated": "2026-09-29T10:55:50.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
