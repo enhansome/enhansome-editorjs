@@ -2898,10 +2898,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-05T07:43:42Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "editor-js",
             "repo": "awesome-editorjs",
-            "stars": 2874,
+            "stars": 2875,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2960,7 +2960,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T18:02:33Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "codex-team",
                 "repo": "codex.docs",
                 "stars": 846,
@@ -3029,7 +3029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:55:50.147Z",
+    "last_updated": "2026-09-30T10:46:20.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3038,10 +3038,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-05T07:43:42Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2874,
+      "stars": 2875,
       "topics": [
         "awesome",
         "awesome-list",

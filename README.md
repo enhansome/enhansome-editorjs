@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,644 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 142 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,640 | 🐛 1,085 | 🌐 TypeScript | 📅 2026-09-29 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,643 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-09-30 components
 
 #### React Native
 
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,992 | 🐛 413 | 🌐 TypeScript | 📅 2026-09-29
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 37,998 | 🐛 410 | 🌐 TypeScript | 📅 2026-09-30
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -266,7 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 |
 
 ## Projects Using Editor.js
 
-👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,874 | 🐛 23 | 📅 2026-08-05
+👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md) ⭐ 2,875 | 🐛 24 | 📅 2026-08-05
 
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) ⭐ 7 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-11 -  Firefox extension which allows users to take notes on webpages
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
@@ -288,7 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 |
 
 ### Open source projects
 
-* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 846 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-25 — documentation engine
+* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 846 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-25 — documentation engine
 * [CodeX Notes](https://github.com/codex-team/codex.notes) ⭐ 148 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-08 — crossplatform desktop notes application based on Electron and Editor.js
 * [CodeX Media](https://github.com/codex-team/codex.media) ⭐ 104 | 🐛 59 | 🌐 PHP | 📅 2026-09-04 — platform for building modern website for educational or media organizations
 * [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,202 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
