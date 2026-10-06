@@ -1390,7 +1390,7 @@
                 "id": 411740061,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:15:45Z",
+                "last_commit": "2026-10-06T10:22:20Z",
                 "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
@@ -3002,7 +3002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:14:24.393Z",
+    "last_updated": "2026-10-06T11:33:04.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
