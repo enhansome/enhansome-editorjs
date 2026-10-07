@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T06:08:48Z",
+                    "last_commit": "2026-10-07T02:45:47Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1239,7 +1239,7 @@
                     "open_issues": 11,
                     "owner": "calumk",
                     "repo": "editorjs-columns",
-                    "stars": 142,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1849,7 +1849,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:23:52Z",
+                "last_commit": "2026-10-07T00:37:04Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -2311,7 +2311,7 @@
                 "open_issues": 14,
                 "owner": "editor-js",
                 "repo": "editorjs-php",
-                "stars": 264,
+                "stars": 262,
                 "topics": [
                   "codex",
                   "codex-editor",
@@ -2936,7 +2936,7 @@
                 "open_issues": 33,
                 "owner": "codex-team",
                 "repo": "codex.docs",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "docs",
                   "editorjs",
@@ -3002,7 +3002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:33:04.336Z",
+    "last_updated": "2026-10-07T11:23:01.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3014,7 +3014,7 @@
       "open_issues": 24,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2874,
+      "stars": 2873,
       "topics": [
         "awesome",
         "awesome-list",
