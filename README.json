@@ -23,7 +23,7 @@
                     "open_issues": 39,
                     "owner": "editor-js",
                     "repo": "header",
-                    "stars": 115,
+                    "stars": 114,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -1946,7 +1946,7 @@
                 "open_issues": 4,
                 "owner": "pavittarx",
                 "repo": "editorjs-html",
-                "stars": 380,
+                "stars": 379,
                 "topics": [
                   "editor",
                   "editorjs",
@@ -2081,7 +2081,7 @@
                     "open_issues": 38,
                     "owner": "Jungwoo-An",
                     "repo": "react-editor-js",
-                    "stars": 970,
+                    "stars": 969,
                     "topics": [
                       "editor-js",
                       "react",
@@ -2107,7 +2107,7 @@
                     "open_issues": 32,
                     "owner": "moveyourdigital",
                     "repo": "editorjs-blocks-react-renderer",
-                    "stars": 147,
+                    "stars": 146,
                     "topics": [
                       "editorjs",
                       "editorjs-component",
@@ -2134,7 +2134,7 @@
                     "open_issues": 24,
                     "owner": "stfy",
                     "repo": "react-editor.js",
-                    "stars": 129,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -3002,7 +3002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:32:01.539Z",
+    "last_updated": "2026-10-10T10:50:10.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
