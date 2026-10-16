@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,672 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -52,9 +52,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 
 #### Text and typography
 
-* [@editorjs/header](https://github.com/editor-js/header) ⭐ 114 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-13 — header block
+* [@editorjs/header](https://github.com/editor-js/header) ⭐ 114 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-13 — header block
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-20 - tool for adding colorful alert messages
-* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-13 - tool for nesting blocks in a toggleable element
+* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-15 - tool for nesting blocks in a toggleable element
 * [@editorjs/paragraph](https://github.com/editor-js/paragraph) ⭐ 59 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-16 — text block base tool
 * [@editorjs/quote](https://github.com/editor-js/quote) ⭐ 58 | 🐛 23 | 🌐 TypeScript | 📅 2024-12-03 — tool for quotes
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-17 — delimiter tool
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 128 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,770 | 🐛 1,104 | 🌐 TypeScript | 📅 2026-10-15 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,788 | 🐛 1,110 | 🌐 TypeScript | 📅 2026-10-16 components
 
 #### React Native
 
@@ -214,7 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 * [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) ⭐ 19 | 🐛 3 | 🌐 PHP | 📅 2026-04-18 — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-10-14 — Converter EditorJS JSON to HTML
 * [orchid-editorjs-field](https://github.com/AlexSabur/orchid-editorjs-field) ⭐ 13 | 🐛 3 | 🌐 PHP | 📅 2023-10-27
-* [yii2-editorjs-widget](https://github.com/zakurdaev/yii2-editorjs-widget) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2020-05-12 — Editor.js widget for Yii 2
+* [yii2-editorjs-widget](https://github.com/zakurdaev/yii2-editorjs-widget) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2020-05-12 — Editor.js widget for Yii 2
 * [editorjs-simple-html-parser](https://github.com/Edd-G/editorjs-simple-html-parser) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2024-05-04 - 2 way parser for Editor.js: JSON to HTML & HTML to JSON
 * [UX Editor](https://github.com/pentiminax/ux-editor) ⭐ 8 | 🐛 2 | 🌐 PHP | 📅 2025-04-22 - Editor.js integration for Symfony
 * [magento2-editorjs](https://github.com/Wamoco/magento2-editorjs) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2021-06-23 — Editor.js module for Magento 2
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,511 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-14
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,534 | 🐛 368 | 🌐 TypeScript | 📅 2026-10-15
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -288,7 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 
 ### Open source projects
 
-* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 845 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-25 — documentation engine
+* [CodeX Docs](https://github.com/codex-team/codex.docs) ⭐ 846 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-25 — documentation engine
 * [CodeX Notes](https://github.com/codex-team/codex.notes) ⭐ 148 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-08 — crossplatform desktop notes application based on Electron and Editor.js
 * [CodeX Media](https://github.com/codex-team/codex.media) ⭐ 105 | 🐛 59 | 🌐 PHP | 📅 2026-09-04 — platform for building modern website for educational or media organizations
 * [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,210 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
