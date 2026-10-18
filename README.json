@@ -517,7 +517,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2025-07-01T15:45:53Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "editor-js",
                     "repo": "image",
                     "stars": 284,
@@ -2582,7 +2582,7 @@
                 "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "django",
                   "django-admin",
@@ -3002,7 +3002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:52:22.789Z",
+    "last_updated": "2026-10-18T09:10:09.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3014,7 +3014,7 @@
       "open_issues": 25,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2880,
+      "stars": 2879,
       "topics": [
         "awesome",
         "awesome-list",
