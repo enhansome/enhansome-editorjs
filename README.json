@@ -520,7 +520,7 @@
                     "open_issues": 133,
                     "owner": "editor-js",
                     "repo": "image",
-                    "stars": 284,
+                    "stars": 283,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -3002,7 +3002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:10:09.716Z",
+    "last_updated": "2026-10-19T10:20:47.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
