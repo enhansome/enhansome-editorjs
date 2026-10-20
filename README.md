@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,654 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -54,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 * [@editorjs/header](https://github.com/editor-js/header) ⭐ 114 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-13 — header block
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-20 - tool for adding colorful alert messages
-* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-15 - tool for nesting blocks in a toggleable element
+* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-20 - tool for nesting blocks in a toggleable element
 * [@editorjs/paragraph](https://github.com/editor-js/paragraph) ⭐ 59 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-16 — text block base tool
 * [@editorjs/quote](https://github.com/editor-js/quote) ⭐ 58 | 🐛 23 | 🌐 TypeScript | 📅 2024-12-03 — tool for quotes
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-17 — delimiter tool
@@ -78,9 +78,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 #### Media & Embed
 
-* [@editorjs/image](https://github.com/editor-js/image) ⭐ 283 | 🐛 133 | 🌐 TypeScript | 📅 2025-07-01 — image block
+* [@editorjs/image](https://github.com/editor-js/image) ⭐ 282 | 🐛 133 | 🌐 TypeScript | 📅 2025-07-01 — image block
 * [@editorjs/embed](https://github.com/editor-js/embed) ⭐ 159 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-10 — pasted patterns handling and inserts iframe with embedded content
-* [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17 — embed images from image files, URLs or Unsplash
+* [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-20 — embed images from image files, URLs or Unsplash
 * [@editorjs/link](https://github.com/editor-js/link) ⭐ 101 | 🐛 32 | 🌐 JavaScript | 📅 2024-07-01 — link with preview
 * [@editorjs/attaches](https://github.com/editor-js/attaches) ⭐ 74 | 🐛 18 | 🌐 JavaScript | 📅 2025-10-16 — attach files to your article
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) ⭐ 69 | 🐛 35 | 🌐 JavaScript | 📅 2023-11-18 — add images to article by pasting image URLs. no server-side uploader required
@@ -135,7 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 * [@editorjs/marker](https://github.com/editor-js/marker) ⭐ 88 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-06 — tool for highlighting text-fragments
 * [editorjs-style](https://github.com/hata6502/editorjs-style) ⭐ 65 | 🐛 11 | 🌐 TypeScript | 📅 2023-02-04 — Inline-style Tool for Editor.js
 * [@editorjs/inline-code](https://github.com/editor-js/inline-code) ⭐ 63 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-30 — tool for marking monospace code-fragments
-* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) ⭐ 45 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-16 — Tool for adding tooltips in EditorJS
+* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) ⭐ 45 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-20 — Tool for adding tooltips in EditorJS
 * [editorjs-hyperlink](https://github.com/trinhtam/editorjs-hyperlink) ⭐ 40 | 🐛 15 | 🌐 JavaScript | 📅 2024-06-18 — a tool link with target & rel attribute for Editor.js
 * [editorjs-inline](https://github.com/hata6502/editorjs-inline) ⭐ 38 | 🐛 13 | 🌐 TypeScript | 📅 2023-02-04 — Inline-Editor.js Tool for Editor.js
 * [@editorjs/link-autocomplete](https://github.com/editor-js/link-autocomplete) ⭐ 36 | 🐛 7 | 🌐 JavaScript | 📅 2023-11-18 — an upgraded version of base inline link tool with your server's search
@@ -173,24 +173,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 ### JavaScript
 
-* [editorjs-html](https://github.com/pavittarx/editorjs-html) ⭐ 379 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-20 — a utility to parse editorjs clean data to HTML
+* [editorjs-html](https://github.com/pavittarx/editorjs-html) ⭐ 378 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-20 — a utility to parse editorjs clean data to HTML
 * [editorjs-parser](https://github.com/MichaelMikeJones/editorjs-parser) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 — a library to parse Editorjs clean data to HTML in Node and Browser
 * [editor-js-component](https://github.com/WebJeffery/editor-js-component) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-23 - an editorjs library that can use Vue and React frameworks
 * [editorjs-to-html](https://github.com/vorjyga/editorjs-to-html) ⭐ 13 | 🐛 1 | 🌐 CSS | 📅 2024-01-27 — editorjs format parser to html with saving editorjs markup format
 
 #### Vue.js
 
-* [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ⭐ 363 | 🐛 47 | 🌐 JavaScript | 📅 2023-03-06 — editor.js for Vue users
+* [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ⭐ 362 | 🐛 47 | 🌐 JavaScript | 📅 2023-03-06 — editor.js for Vue users
 * [Editorjs.vue](https://gist.github.com/bettysteger/d7f2b1a52bb1c23a0c24f3a9ff5832d9) - Vue 3 SFC for Editor.js using v-model with custom Vue component using Video.js
 
 #### React
 
 * [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) ⭐ 969 | 🐛 38 | 🌐 TypeScript | 📅 2024-01-04 — the unofficial editor-js component for React
-* [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) ⭐ 146 | 🐛 32 | 🌐 TypeScript | 📅 2025-05-12 - React component to render blocks to semantic HTML5 tags
-* [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 128 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
+* [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) ⭐ 147 | 🐛 32 | 🌐 TypeScript | 📅 2025-05-12 - React component to render blocks to semantic HTML5 tags
+* [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,804 | 🐛 1,113 | 🌐 TypeScript | 📅 2026-10-19 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 99,824 | 🐛 1,114 | 🌐 TypeScript | 📅 2026-10-20 components
 
 #### React Native
 
@@ -242,7 +242,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 ### Kotlin
 
-* [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) ⭐ 33 | 🐛 1 | 🌐 Kotlin | 📅 2024-04-27 - Android framework for parsing and rendering blocks
+* [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) ⭐ 32 | 🐛 1 | 🌐 Kotlin | 📅 2024-04-27 - Android framework for parsing and rendering blocks
 
 ### Java
 
@@ -250,7 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,606 | 🐛 369 | 🌐 TypeScript | 📅 2026-10-19
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,625 | 🐛 368 | 🌐 TypeScript | 📅 2026-10-20
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -305,4 +305,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,194 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
