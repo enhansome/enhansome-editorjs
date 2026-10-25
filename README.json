@@ -1388,7 +1388,7 @@
                 "open_issues": 13,
                 "owner": "editor-js",
                 "repo": "inline-code",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "code",
                   "codex",
@@ -3023,7 +3023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:10:10.767Z",
+    "last_updated": "2026-10-25T09:27:32.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
