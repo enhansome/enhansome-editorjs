@@ -2603,7 +2603,7 @@
                 "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "django",
                   "django-admin",
@@ -3023,7 +3023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:27:32.902Z",
+    "last_updated": "2026-10-26T10:35:12.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3035,7 +3035,7 @@
       "open_issues": 24,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2878,
+      "stars": 2879,
       "topics": [
         "awesome",
         "awesome-list",
