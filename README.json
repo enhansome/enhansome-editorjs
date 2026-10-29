@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T01:13:59Z",
+                    "last_commit": "2026-10-29T06:00:01Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1870,7 +1870,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T01:25:06Z",
+                "last_commit": "2026-10-29T07:07:56Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1897,7 +1897,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T03:26:47Z",
+                "last_commit": "2026-10-29T05:31:37Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2064,7 +2064,7 @@
                     "open_issues": 47,
                     "owner": "ChangJoo-Park",
                     "repo": "vue-editor-js",
-                    "stars": 363,
+                    "stars": 362,
                     "topics": [
                       "editor",
                       "editorjs",
@@ -2102,7 +2102,7 @@
                     "open_issues": 38,
                     "owner": "Jungwoo-An",
                     "repo": "react-editor-js",
-                    "stars": 969,
+                    "stars": 968,
                     "topics": [
                       "editor-js",
                       "react",
@@ -3023,7 +3023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:51:43.547Z",
+    "last_updated": "2026-10-29T11:08:30.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
