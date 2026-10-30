@@ -558,7 +558,7 @@
                     "id": 266148127,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T06:00:01Z",
+                    "last_commit": "2026-10-29T18:41:11Z",
                     "open_issues": 6,
                     "owner": "kommitters",
                     "repo": "editorjs-inline-image",
@@ -1351,7 +1351,7 @@
               "description": "Inline-style Tool for Editor.js",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Inline-style Tool for Editor.js",
                 "homepage": "https://hata6502.github.io/editorjs-style/",
                 "id": 292460881,
@@ -1451,7 +1451,7 @@
               "description": "Inline-Editor.js Tool for Editor.js",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Inline-Editor.js Tool for Editor.js",
                 "homepage": "https://hata6502.github.io/editorjs-inline/",
                 "id": 286484238,
@@ -1570,7 +1570,7 @@
               "description": "Inline-template Tool for Editor.js",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Inline-template Tool for Editor.js",
                 "homepage": "https://hata6502.github.io/editorjs-inline-template/",
                 "id": 335267571,
@@ -2603,7 +2603,7 @@
                 "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "django",
                   "django-admin",
@@ -3023,7 +3023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:08:30.179Z",
+    "last_updated": "2026-10-30T11:03:12.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
