@@ -1415,7 +1415,7 @@
                 "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "editorjs",
                   "editorjs-tool",
@@ -2828,7 +2828,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-11-07T09:34:14Z",
-                "open_issues": 37,
+                "open_issues": 35,
                 "owner": "melishev",
                 "repo": "strapi-plugin-react-editorjs",
                 "stars": 167,
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:31:18.130Z",
+    "last_updated": "2026-11-02T12:54:09.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 25,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2881,
+      "stars": 2882,
       "topics": [
         "awesome",
         "awesome-list",
