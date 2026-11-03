@@ -77,7 +77,7 @@
                     "id": 447778042,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T00:33:33Z",
+                    "last_commit": "2026-11-03T11:41:33Z",
                     "open_issues": 8,
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
@@ -1870,7 +1870,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T22:30:26Z",
+                "last_commit": "2026-11-02T18:37:27Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1897,7 +1897,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T22:29:17Z",
+                "last_commit": "2026-11-03T11:14:02Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -1996,7 +1996,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T20:03:55Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "miadabdi",
                 "repo": "editorjs-parser",
                 "stars": 98,
@@ -2378,7 +2378,7 @@
                 "id": 579156015,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-05-12T09:10:11Z",
+                "last_commit": "2026-11-02T19:46:18Z",
                 "open_issues": 3,
                 "owner": "bumpcore",
                 "repo": "editor.php",
@@ -2603,7 +2603,7 @@
                 "open_issues": 11,
                 "owner": "2ik",
                 "repo": "django-editorjs-fields",
-                "stars": 148,
+                "stars": 147,
                 "topics": [
                   "django",
                   "django-admin",
@@ -2981,7 +2981,7 @@
                 "open_issues": 59,
                 "owner": "codex-team",
                 "repo": "codex.media",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:54:09.214Z",
+    "last_updated": "2026-11-03T12:25:15.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 25,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2882,
+      "stars": 2883,
       "topics": [
         "awesome",
         "awesome-list",
