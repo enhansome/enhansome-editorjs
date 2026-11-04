@@ -686,7 +686,7 @@
                     "open_issues": 1,
                     "owner": "mdgaziur",
                     "repo": "EditorJS-LaTeX",
-                    "stars": 43,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1870,7 +1870,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T18:37:27Z",
+                "last_commit": "2026-11-03T21:06:01Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -2955,7 +2955,7 @@
                 "open_issues": 29,
                 "owner": "codex-team",
                 "repo": "codex.notes",
-                "stars": 148,
+                "stars": 147,
                 "topics": [
                   "codex-editor",
                   "electron",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:25:15.079Z",
+    "last_updated": "2026-11-04T12:37:28.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 25,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2883,
+      "stars": 2885,
       "topics": [
         "awesome",
         "awesome-list",
