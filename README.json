@@ -77,7 +77,7 @@
                     "id": 447778042,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-04T23:05:38Z",
+                    "last_commit": "2026-11-05T22:10:45Z",
                     "open_issues": 8,
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
@@ -236,7 +236,7 @@
                     "open_issues": 0,
                     "owner": "etozhealkhipce",
                     "repo": "editorjs-aitext",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -974,7 +974,7 @@
                     "open_issues": 55,
                     "owner": "editor-js",
                     "repo": "table",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1351,7 +1351,7 @@
               "description": "Inline-style Tool for Editor.js",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "description": "Inline-style Tool for Editor.js",
                 "homepage": "https://hata6502.github.io/editorjs-style/",
                 "id": 292460881,
@@ -1870,7 +1870,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T21:15:58Z",
+                "last_commit": "2026-11-06T03:42:44Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1897,7 +1897,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T22:46:24Z",
+                "last_commit": "2026-11-05T21:41:34Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2329,7 +2329,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2024-04-17T19:31:41Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "editor-js",
                 "repo": "editorjs-php",
                 "stars": 262,
@@ -2895,7 +2895,7 @@
             "open_issues": 13,
             "owner": "kvgc153",
             "repo": "WebResearcherJS",
-            "stars": 7,
+            "stars": 6,
             "topics": [
               "annotation",
               "chrome",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:47:36.000Z",
+    "last_updated": "2026-11-06T12:31:54.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 25,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2886,
+      "stars": 2887,
       "topics": [
         "awesome",
         "awesome-list",

@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,107 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -54,13 +54,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 * [@editorjs/header](https://github.com/editor-js/header) ⭐ 114 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-13 — header block
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-20 - tool for adding colorful alert messages
-* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-04 - tool for nesting blocks in a toggleable element
+* [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-05 - tool for nesting blocks in a toggleable element
 * [@editorjs/paragraph](https://github.com/editor-js/paragraph) ⭐ 59 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-16 — text block base tool
 * [@editorjs/quote](https://github.com/editor-js/quote) ⭐ 58 | 🐛 23 | 🌐 TypeScript | 📅 2024-12-03 — tool for quotes
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-17 — delimiter tool
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) ⭐ 50 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-28 - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) ⭐ 64 | 🐛 13 | 🌐 HTML | 📅 2024-03-20
 * [@editorjs/warning](https://github.com/editor-js/warning) ⭐ 41 | 🐛 11 | 🌐 TypeScript | 📅 2024-11-21 — warning tool can be used as editorials notifications or appeals
-* [editorjs-aitext](https://github.com/etozhealkhipce/editorjs-aitext) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-03 - ai suggestions tool based on paragraph tool and openai node lib
+* [editorjs-aitext](https://github.com/etozhealkhipce/editorjs-aitext) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-03 - ai suggestions tool based on paragraph tool and openai node lib
 * [@coolbytes/editorjs-delimiter](https://github.com/CoolBytesIN/editorjs-delimiter) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-09 — Improved delimiter block tool (Includes more styles - `dash` and `line`)
 * [title-editorjs](https://github.com/EmersonMatias/title-editorjs) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2023-11-18 - Provides Title (headings) Blocks for the Editor.js with various settings like H1...H6, colors (red, pink, purple...) and text-align. It is compatible with react and typescript, without causing typing errors.
 * [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-08 - Color Picker Tool
@@ -103,7 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 #### Table
 
-* [@editorjs/table](https://github.com/editor-js/table) ⭐ 146 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-17 — table constructor tool
+* [@editorjs/table](https://github.com/editor-js/table) ⭐ 147 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-17 — table constructor tool
 * [editorjs-table](https://github.com/4rw44z/editorjs-table) ⭐ 47 | 🐛 13 | 🌐 CSS | 📅 2024-06-04 - Table contructor tool with great editing row/column options.
 
 #### Chart
@@ -134,7 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 ### Inline Tools
 
 * [@editorjs/marker](https://github.com/editor-js/marker) ⭐ 88 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-06 — tool for highlighting text-fragments
-* [editorjs-style](https://github.com/hata6502/editorjs-style) ⚠️ Archived — Inline-style Tool for Editor.js
+* [editorjs-style](https://github.com/hata6502/editorjs-style) ⭐ 65 | 🐛 11 | 🌐 TypeScript | 📅 2023-02-04 — Inline-style Tool for Editor.js
 * [@editorjs/inline-code](https://github.com/editor-js/inline-code) ⭐ 64 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-30 — tool for marking monospace code-fragments
 * [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) ⭐ 46 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-30 — Tool for adding tooltips in EditorJS
 * [editorjs-hyperlink](https://github.com/trinhtam/editorjs-hyperlink) ⭐ 40 | 🐛 15 | 🌐 JavaScript | 📅 2024-06-18 — a tool link with target & rel attribute for Editor.js
@@ -165,8 +165,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 ### Plugins
 
-* [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) ⭐ 212 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-04 — Drag/Drop feature for Editor.js
-* [editorjs-undo](https://github.com/kommitters/editorjs-undo) ⭐ 193 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-04 — Undo/Redo feature for Editor.js
+* [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) ⭐ 212 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-06 — Drag/Drop feature for Editor.js
+* [editorjs-undo](https://github.com/kommitters/editorjs-undo) ⭐ 193 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-05 — Undo/Redo feature for Editor.js
 * [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) ⚠️ Archived - Two plugins which allow you to export/import Markdown file
 * [editorjs-multiblock-selection-plugin](https://www.npmjs.com/package/editorjs-multiblock-selection-plugin) - Plugin to extend your inline tools to work in multiblock selection
 
@@ -191,7 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,086 | 🐛 1,147 | 🌐 TypeScript | 📅 2026-11-05 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,099 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-11-06 components
 
 #### React Native
 
@@ -208,7 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 ### PHP
 
-* [editorjs-php](https://github.com/editor-js/editorjs-php) ⭐ 262 | 🐛 13 | 🌐 PHP | 📅 2024-04-17 — server-side data validation, HTML sanitization and convertation output JSON to the Block objects
+* [editorjs-php](https://github.com/editor-js/editorjs-php) ⭐ 262 | 🐛 14 | 🌐 PHP | 📅 2024-04-17 — server-side data validation, HTML sanitization and convertation output JSON to the Block objects
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) ⭐ 92 | 🐛 24 | 🌐 PHP | 📅 2026-06-01 — Editor JS field for Laravel Nova
 * [bumpcore/editor.php](https://github.com/bumpcore/editor.php) ⭐ 47 | 🐛 3 | 🌐 PHP | 📅 2026-11-02 - An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.
 * [EditorjsBundle](https://github.com/tbmatuka/EditorjsBundle) ⭐ 19 | 🐛 7 | 🌐 PHP | 📅 2023-02-02 — Symfony bundle for Editor.js
@@ -251,7 +251,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,829 | 🐛 364 | 🌐 TypeScript | 📅 2026-11-05
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,727 | 🐛 370 | 🌐 TypeScript | 📅 2026-11-06
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -269,7 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
-* [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) ⭐ 7 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-11 -  Firefox extension which allows users to take notes on webpages
+* [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) ⭐ 6 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-11 -  Firefox extension which allows users to take notes on webpages
 * [Newsletter.page](https://newsletter.page) -  A platform for sending email newsletters
 * [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
 * [beemy](https://www.writebeemy.com/) - Dedicated blog builder to better manage content
@@ -306,4 +306,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,420 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
