@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,528 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -114,7 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 |
 
 * [@editorjs/code](https://github.com/editor-js/code) ⭐ 85 | 🐛 16 | 🌐 TypeScript | 📅 2026-04-29 — tools for code examples
 * [@editorjs/raw](https://github.com/editor-js/raw) ⭐ 71 | 🐛 19 | 🌐 JavaScript | 📅 2024-12-04 — include raw HTML code to your article
-* [@bomdi/codebox](https://github.com/BomdiZane/codebox) ⭐ 40 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-15 — code syntax highlighting tool for Editor.js
+* [@bomdi/codebox](https://github.com/BomdiZane/codebox) ⭐ 39 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-08 — code syntax highlighting tool for Editor.js
 * [editorjs-codemirror](https://github.com/alexiej/editorjs-codemirror) ⭐ 19 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-05 — Code Mirror for the Editor.js allows to include code examples in your articles.
 * [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) ⚠️ Archived — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
 * [editor-js-code](https://github.com/paraswaykole/editor-js-code) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-06-18 — a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles
@@ -174,7 +174,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 |
 
 ### JavaScript
 
-* [editorjs-html](https://github.com/pavittarx/editorjs-html) ⭐ 379 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-20 — a utility to parse editorjs clean data to HTML
+* [editorjs-html](https://github.com/pavittarx/editorjs-html) ⭐ 379 | 🐛 5 | 🌐 TypeScript | 📅 2026-01-20 — a utility to parse editorjs clean data to HTML
 * [editorjs-parser](https://github.com/MichaelMikeJones/editorjs-parser) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 — a library to parse Editorjs clean data to HTML in Node and Browser
 * [editor-js-component](https://github.com/WebJeffery/editor-js-component) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-23 - an editorjs library that can use Vue and React frameworks
 * [editorjs-to-html](https://github.com/vorjyga/editorjs-to-html) ⭐ 13 | 🐛 1 | 🌐 CSS | 📅 2024-01-27 — editorjs format parser to html with saving editorjs markup format
@@ -191,7 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 141 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,101 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-11-07 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,107 | 🐛 1,151 | 🌐 TypeScript | 📅 2026-11-08 components
 
 #### React Native
 
@@ -251,7 +251,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,678 | 🐛 378 | 🌐 TypeScript | 📅 2026-11-06
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,688 | 🐛 380 | 🌐 TypeScript | 📅 2026-11-07
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -306,4 +306,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,807 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

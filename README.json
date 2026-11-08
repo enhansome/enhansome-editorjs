@@ -1091,11 +1091,11 @@
                     "id": 239874080,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2023-03-15T05:18:58Z",
+                    "last_commit": "2026-11-08T05:06:26Z",
                     "open_issues": 11,
                     "owner": "dev-juju",
                     "repo": "codebox",
-                    "stars": 40,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1964,7 +1964,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-01-20T19:46:08Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "pavittarx",
                 "repo": "editorjs-html",
                 "stars": 379,
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:22:00.388Z",
+    "last_updated": "2026-11-08T11:34:00.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 26,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2887,
+      "stars": 2886,
       "topics": [
         "awesome",
         "awesome-list",
