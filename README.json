@@ -1967,7 +1967,7 @@
                 "open_issues": 5,
                 "owner": "pavittarx",
                 "repo": "editorjs-html",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "editor",
                   "editorjs",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:25:43.398Z",
+    "last_updated": "2026-11-10T13:04:05.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
