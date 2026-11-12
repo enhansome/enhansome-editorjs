@@ -1870,7 +1870,7 @@
                 "id": 272760205,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:46:03Z",
+                "last_commit": "2026-11-12T03:40:58Z",
                 "open_issues": 12,
                 "owner": "kommitters",
                 "repo": "editorjs-drag-drop",
@@ -1897,7 +1897,7 @@
                 "id": 271114793,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:58:08Z",
+                "last_commit": "2026-11-12T03:36:23Z",
                 "open_issues": 17,
                 "owner": "kommitters",
                 "repo": "editorjs-undo",
@@ -2635,8 +2635,8 @@
                 "id": 425332359,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T04:54:41Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-11T12:28:07Z",
+                "open_issues": 4,
                 "owner": "ceritium",
                 "repo": "render_editorjs",
                 "stars": 37,
@@ -2895,7 +2895,7 @@
             "open_issues": 13,
             "owner": "kvgc153",
             "repo": "WebResearcherJS",
-            "stars": 7,
+            "stars": 6,
             "topics": [
               "annotation",
               "chrome",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:13:26.910Z",
+    "last_updated": "2026-11-12T13:19:30.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 26,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2887,
+      "stars": 2888,
       "topics": [
         "awesome",
         "awesome-list",
