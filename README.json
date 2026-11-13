@@ -517,7 +517,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2025-07-01T15:45:53Z",
-                    "open_issues": 133,
+                    "open_issues": 132,
                     "owner": "editor-js",
                     "repo": "image",
                     "stars": 283,
@@ -2635,8 +2635,8 @@
                 "id": 425332359,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T12:28:07Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-12T18:48:46Z",
+                "open_issues": 3,
                 "owner": "ceritium",
                 "repo": "render_editorjs",
                 "stars": 37,
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:19:30.368Z",
+    "last_updated": "2026-11-13T12:40:43.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",

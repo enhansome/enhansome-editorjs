@@ -4,7 +4,7 @@
 
 > A curated list of awesome Editor.js tools, libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,212 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by contributing!
 
 ## Contents
 
@@ -78,7 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 |
 
 #### Media & Embed
 
-* [@editorjs/image](https://github.com/editor-js/image) ⭐ 283 | 🐛 133 | 🌐 TypeScript | 📅 2025-07-01 — image block
+* [@editorjs/image](https://github.com/editor-js/image) ⭐ 283 | 🐛 132 | 🌐 TypeScript | 📅 2025-07-01 — image block
 * [@editorjs/embed](https://github.com/editor-js/embed) ⭐ 159 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-10 — pasted patterns handling and inserts iframe with embedded content
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) ⭐ 113 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-30 — embed images from image files, URLs or Unsplash
 * [@editorjs/link](https://github.com/editor-js/link) ⭐ 102 | 🐛 32 | 🌐 JavaScript | 📅 2024-07-01 — link with preview
@@ -191,7 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 |
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) ⭐ 129 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-03 — React wrapper component for Editor.js
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-16 — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-15 - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) ⭐ 142 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-02 support
-* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,173 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-11-12 components
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) ⭐ 100,189 | 🐛 1,151 | 🌐 TypeScript | 📅 2026-11-13 components
 
 #### React Native
 
@@ -228,7 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 |
 
 ### Ruby
 
-* [render\_editorjs](https://github.com/ceritium/render_editorjs) ⭐ 37 | 🐛 4 | 🌐 Ruby | 📅 2026-11-11 — A modular and customizable Ruby renderer for Editor.js
+* [render\_editorjs](https://github.com/ceritium/render_editorjs) ⭐ 37 | 🐛 3 | 🌐 Ruby | 📅 2026-11-12 — A modular and customizable Ruby renderer for Editor.js
 * [editor\_js](https://rubygems.org/gems/editor_js) — it validates, parses, and renders content from editorjs
 
 ### Go
@@ -251,7 +251,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 |
 
 ### Plugins for CMS
 
-* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,701 | 🐛 366 | 🌐 TypeScript | 📅 2026-11-12
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Add an Editor.js interface to [Directus](https://github.com/directus/directus) ⭐ 38,708 | 🐛 367 | 🌐 TypeScript | 📅 2026-11-13
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) ⚠️ Archived - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2024-04-14 - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
@@ -306,4 +306,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,666 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
