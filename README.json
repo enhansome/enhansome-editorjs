@@ -81,7 +81,7 @@
                     "open_issues": 8,
                     "owner": "kommitters",
                     "repo": "editorjs-toggle-block",
-                    "stars": 63,
+                    "stars": 62,
                     "topics": [
                       "editorjs",
                       "editorjs-tool",
@@ -137,7 +137,7 @@
                     "open_issues": 23,
                     "owner": "editor-js",
                     "repo": "quote",
-                    "stars": 58,
+                    "stars": 57,
                     "topics": [
                       "codex",
                       "codex-editor",
@@ -199,29 +199,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "@editorjs/warning",
-                  "description": "warning tool can be used as editorials notifications or appeals",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Warning Tool for CodeX Editor 2.0",
-                    "homepage": null,
-                    "id": 155598662,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2024-11-21T16:07:20Z",
-                    "open_issues": 11,
-                    "owner": "editor-js",
-                    "repo": "warning",
-                    "stars": 41,
-                    "topics": [
-                      "codex"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:26.604Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "editorjs-aitext",
                   "description": "ai suggestions tool based on paragraph tool and openai node lib",
                   "children": [],
@@ -238,6 +215,29 @@
                     "repo": "editorjs-aitext",
                     "stars": 40,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:26.604Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "@editorjs/warning",
+                  "description": "warning tool can be used as editorials notifications or appeals",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Warning Tool for CodeX Editor 2.0",
+                    "homepage": null,
+                    "id": 155598662,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2024-11-21T16:07:20Z",
+                    "open_issues": 11,
+                    "owner": "editor-js",
+                    "repo": "warning",
+                    "stars": 39,
+                    "topics": [
+                      "codex"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.604Z"
                 },
@@ -1340,7 +1340,7 @@
                 "open_issues": 12,
                 "owner": "editor-js",
                 "repo": "marker",
-                "stars": 88,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1388,7 +1388,7 @@
                 "open_issues": 13,
                 "owner": "editor-js",
                 "repo": "inline-code",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "code",
                   "codex",
@@ -1411,7 +1411,7 @@
                 "id": 411740061,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T20:45:07Z",
+                "last_commit": "2026-11-16T00:14:21Z",
                 "open_issues": 15,
                 "owner": "kommitters",
                 "repo": "editorjs-tooltip",
@@ -1533,7 +1533,7 @@
                 "open_issues": 15,
                 "owner": "editor-js",
                 "repo": "underline",
-                "stars": 31,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.604Z"
@@ -1995,8 +1995,8 @@
                 "id": 302007767,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T16:32:46Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-16T11:15:05Z",
+                "open_issues": 0,
                 "owner": "miadabdi",
                 "repo": "editorjs-parser",
                 "stars": 98,
@@ -2927,7 +2927,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T18:02:33Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "codex-team",
                 "repo": "codex.docs",
                 "stars": 846,
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:19:14.967Z",
+    "last_updated": "2026-11-16T13:11:21.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤩 A curated list of awesome Editor.js tools, libraries and resources.",
@@ -3008,7 +3008,7 @@
       "open_issues": 26,
       "owner": "editor-js",
       "repo": "awesome-editorjs",
-      "stars": 2888,
+      "stars": 2889,
       "topics": [
         "awesome",
         "awesome-list",
